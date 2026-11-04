@@ -1,0 +1,26 @@
+term	kind	detail
+Postural Orthostatic Tachycardia Syndrome	mesh_entry_term	
+Postural Tachycardia Syndrome	mesh_entry_term	
+Syndrome, Postural Tachycardia	mesh_entry_term	inverted form, not searched
+Tachycardia Syndrome, Postural	mesh_entry_term	inverted form, not searched
+POTS	seed_wording	198 mentions in 6 seeds; acronym POTS
+Postural orthostatic tachycardia syndrome	seed_wording	5 mentions in 4 seeds
+neuropathic POTS	seed_wording	73 mentions in 3 seeds; acronym POTS
+postural orthostatic tachycardia syndrome	seed_wording	7 mentions in 3 seeds
+Postural Orthostatic Tachycardia Syndrome	seed_wording	3 mentions in 3 seeds
+Neuropathic POTS	seed_wording	4 mentions in 2 seeds; acronym POTS
+Hyperadrenergic POTS	seed_wording	2 mentions in 1 seeds; acronym POTS
+postural tachycardia	seed_wording	2 mentions in 1 seeds
+-neuropathic postural tachycardia syndrome	seed_wording	1 mentions in 1 seeds
+Hypovolemic POTS	seed_wording	1 mentions in 1 seeds; acronym POTS
+Neuropathic Postural Tachycardia Syndrome	seed_wording	1 mentions in 1 seeds
+Postural tachycardia syndrome	seed_wording	1 mentions in 1 seeds
+hyperadrenergic POTS	seed_wording	1 mentions in 1 seeds; acronym POTS
+hypovolemic POTS	seed_wording	1 mentions in 1 seeds; acronym POTS
+orthostatic tachycardia	seed_wording	1 mentions in 1 seeds
+hypovolemia	scope_concept	acronym guard
+orthostatic hypotension	scope_concept	acronym guard
+orthostatic intolerance	scope_concept	acronym guard
+tachycardia	scope_concept	acronym guard
+Posture	previous_indexing	1982-2008
+Tachycardia	previous_indexing	1982-2008

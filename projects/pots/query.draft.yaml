@@ -1,0 +1,29 @@
+# Drafted by `pubmed-corpus terms` from MeSH and the seeds' PubTator annotations.
+# Review every clause, add proposed ones with a rationale, set status to approved,
+# proposed or rejected, then run `pubmed-corpus query`.
+clauses:
+- id: mesh_heading
+  source: mesh
+  status: approved
+  rationale: NLM-indexed descriptor D054972 (introduced 2009).
+  query: '"Postural Orthostatic Tachycardia Syndrome"[MeSH Terms]'
+- id: tiab_entry_terms
+  source: mesh
+  status: approved
+  rationale: MeSH entry terms in title/abstract; catches records not yet indexed with MeSH.
+  query: '"postural orthostatic tachycardia syndrome"[tiab] OR "postural tachycardia syndrome"[tiab]'
+- id: tiab_seed_wordings
+  source: seeds
+  status: approved
+  rationale: Wording the seed papers use for the disease (PubTator annotations) that the entry terms do not reach.
+  query: '"orthostatic tachycardia"[tiab] OR "postural tachycardia"[tiab]'
+- id: tiab_acronym_guarded
+  source: seeds
+  status: approved
+  rationale: Acronyms are overloaded, so they count only next to a concept from the MeSH scope note.
+  query: (POTS[tiab]) AND (hypovolemia[tiab] OR "orthostatic hypotension"[tiab] OR "orthostatic intolerance"[tiab] OR tachycardia[tiab])
+- id: mesh_previous_indexing_1982_2008
+  source: mesh
+  status: proposed
+  rationale: 'How NLM indexed this topic before the descriptor existed (1982-2008). Broad: approve only after checking a sample.'
+  query: '("Posture"[MeSH Terms:noexp] AND "Tachycardia"[MeSH Terms:noexp]) AND ("1982"[dp] : "2008"[dp])'

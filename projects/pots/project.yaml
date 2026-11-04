@@ -1,0 +1,43 @@
+name: Postural orthostatic tachycardia syndrome
+mesh: D054972
+pubtator:
+  file: disease2pubtator3.gz
+  concepts:
+  - MESH:D054972
+seeds:
+- pmid: '19207771'
+  key: low2009
+- pmid: '24386408'
+  key: gibbons2013
+- pmid: '36349067'
+  key: zhang2022
+- pmid: '38168762'
+  key: angeli2024
+- pmid: '41519610'
+  key: lau2026
+- pmid: '42635998'
+  key: chung2026
+expansion:
+  routes:
+  - references
+  - cited_by
+  - related
+  related_top_k: 100
+screening:
+  criteria: 'The disease is postural orthostatic tachycardia syndrome (POTS). Include a paper if its own
+    data or argument bears on POTS: its mechanisms, diagnostic tests, subtypes, comorbidities, triggers,
+    treatments or outcomes. This includes papers on orthostatic intolerance, autonomic testing or a comorbid
+    condition when the title or abstract relates them to POTS or reports patients with chronic orthostatic
+    tachycardia or intolerance. Exclude papers about other conditions with no stated link to POTS or orthostatic
+    intolerance, and generic methods papers (software, survey instruments, statistics) cited only as tools.'
+  auto_include_wordings: []
+exclude_retracted: true
+references:
+- name: POTS-phenotyping corpus (2026-10-01)
+  path: reference/pots_phenotyping_2026-10-01.txt
+  description: The 2,668-paper corpus of jeonglab-bcm/POTS-phenotyping, retrieved by a hand-written 7-clause
+    query that includes historical names (neurocirculatory asthenia, soldier's heart, irritable heart,
+    Da Costa syndrome). The benchmark here is how much of it a query drafted only from MeSH and the seeds
+    recovers, with no hand-added clauses.
+benchmark_note: Seeds are the six PubMed-indexed seed papers of POTS-phenotyping; larsen2025 is a medRxiv
+  preprint with no PMID and is left out.

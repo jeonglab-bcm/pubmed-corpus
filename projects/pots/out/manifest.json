@@ -1,0 +1,68 @@
+{
+  "counts": {
+    "core": 2134,
+    "expansion": 49,
+    "fulltext": 1539,
+    "seed": 6,
+    "total": 3728
+  },
+  "excluded": {
+    "no PubMed record": 2,
+    "screened out": 102
+  },
+  "inputs": {
+    "mentions.yaml": "3ab7b3e174b7e9773837fa3705dc5d5f23006caf52883525b8bc58504cde2940",
+    "out/expansion.tsv": "2f0c243feb57a1311e7fdc2a3f8054a0e0b43591bee432147b72ad0c83f28a0c",
+    "out/metadata.tsv": "be60284b3e6cb2f22652971768327a8cd2559269f425a3d5e64e0bc7547c4015",
+    "out/pubtator_hits.tsv": "538c238936931f8cbc5b5bcc3e6542ff0b51fa59b158290fc0524d0c61a0792f",
+    "out/query_hits.tsv": "ae473612c08844220881af8f53d6ba1a2e989788a214cc51828429689ff33e7a",
+    "project.yaml": "66d6fd38520d7e365a6ec8b6a2e71a594ef75094a906caf1dcb41462605c56c3",
+    "query.yaml": "029af8e9aef34a3c86bbe1828776d9627a9a972cab8088db23ad01cf2ce67874",
+    "screen/decisions.jsonl": "15f4dbeb05e8eae9c6fa7eee199bbff66d2a951fd30a939fddd6e4b2105e79fa"
+  },
+  "mesh": "D054972",
+  "project": "Postural orthostatic tachycardia syndrome",
+  "run_log": {
+    "expand": {
+      "date": "2026-11-04",
+      "edges": 1203,
+      "papers": 710
+    },
+    "metadata": {
+      "date": "2026-11-04",
+      "missing": 2,
+      "records": 4420,
+      "retracted": 0
+    },
+    "pubtator": {
+      "content_length": 2180457155,
+      "date": "2026-11-04",
+      "last_modified": "Tue, 06 Oct 2026 15:44:58 GMT",
+      "papers": 30932,
+      "rows": 30932,
+      "url": "https://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator3/disease2pubtator3.gz"
+    },
+    "query": {
+      "clauses_run": 6,
+      "core_papers": 2140,
+      "date": "2026-11-04"
+    },
+    "terms": {
+      "date": "2026-11-04",
+      "drafted_clauses": 5,
+      "mesh": "D054972",
+      "seed_documents": 6,
+      "seed_wordings": 15
+    }
+  },
+  "seeds": [
+    "19207771",
+    "24386408",
+    "36349067",
+    "38168762",
+    "41519610",
+    "42635998"
+  ],
+  "stale_screening_decisions": 0,
+  "tool": "pubmed-corpus 0.1.0"
+}

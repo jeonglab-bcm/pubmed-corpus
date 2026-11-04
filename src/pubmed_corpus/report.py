@@ -21,6 +21,12 @@ def _pct(a: int, b: int) -> str:
     return f"{100 * a / b:.1f}%" if b else "n/a"
 
 
+def _icite_status(seed: dict) -> str:
+    if seed["icite_found"] != "1":
+        return "**no**"
+    return "yes" if int(seed["references"] or 0) + int(seed["cited_by"] or 0) else "yes, **no links yet**"
+
+
 def _table(header: list[str], rows: list[list]) -> list[str]:
     out = ["| " + " | ".join(header) + " |", "|" + "|".join("---" for _ in header) + "|"]
     out += ["| " + " | ".join(str(c).replace("|", "\\|") for c in r) + " |" for r in rows]
@@ -117,8 +123,8 @@ def build(project: Project) -> str:
     if seeds_path.exists():
         L += ["", "## Seed expansion", ""]
         L += _table(["Seed", "PMID", "In iCite", "References", "Cited by", "Related"],
-                    [[s["key"], s["seed"], "yes" if s["icite_found"] == "1" else "**no**", s["references"], s["cited_by"],
-                      s["related"]] for s in read_tsv(seeds_path)])
+                    [[s["key"], s["seed"], _icite_status(s), s["references"], s["cited_by"], s["related"]]
+                     for s in read_tsv(seeds_path)])
         cands = corpus_mod.candidates(project)
         reached = {e["pmid"] for e in read_tsv(out / "expansion.tsv")}
         tiers = Counter(cands[p]["tier"] for p in reached if p in cands)
@@ -154,13 +160,19 @@ def build(project: Project) -> str:
         L += ["", f"Reference size {len(ref)}. Missed: {len(missed)} ({no_abs} without an abstract, {gone} no longer in PubMed, "
                   f"{sum(1 for p in missed if p in excl)} reached but excluded)."]
         proposed = [c["id"] for c in clauses if c["status"] == "proposed"]
+        recoverable: set[str] = set()
         for cid in proposed:
-            n = len(set(hits.get(cid, [])) & set(missed))
-            L += [f"Proposed clause `{cid}` would recover {n} of them."]
-        if missed:
-            L += ["", "Missed reference papers (first by PMID):", ""]
+            got = set(hits.get(cid, [])) & set(missed)
+            recoverable |= got
+            L += [f"Proposed clause `{cid}` would recover {len(got)} of them."]
+        if proposed:
+            found = len(ref & set(in_corpus))
+            L += [f"With every proposed clause approved, recall would be {_pct(found + len(recoverable), len(ref))}."]
+        residual = [p for p in missed if p not in recoverable]
+        if residual:
+            L += ["", f"Missed reference papers that no proposed clause recovers: {len(residual)} (first by PMID):", ""]
             L += _table(["PMID", "Year", "Title"], [[p, meta.get(p, {}).get("year", ""), meta.get(p, {}).get("title", "")[:100]]
-                                                   for p in missed[:SAMPLE]])
+                                                   for p in residual[:SAMPLE]])
         extra = Counter(r["tier"] for p, r in in_corpus.items() if p not in ref)
         L += ["", "Corpus papers not in the reference, by tier: "
               + ", ".join(f"{t} {extra.get(t, 0)}" for t in corpus_mod.TIERS) + "."]

@@ -7,7 +7,7 @@ import pytest
 from pubmed_corpus import cli
 
 ROOT = Path(__file__).resolve().parent.parent
-PROJECTS = sorted(p.parent for p in (ROOT / "projects").glob("*/out/corpus.tsv"))
+PROJECTS = sorted(p.parent.parent for p in (ROOT / "projects").glob("*/out/corpus.tsv"))
 
 
 @pytest.mark.skipif(not PROJECTS, reason="no assembled project committed yet")

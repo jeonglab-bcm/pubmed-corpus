@@ -1,0 +1,125 @@
+type	concept	name	seeds	mentions
+Disease	MESH:D054972	Postural Orthostatic Tachycardia Syndrome	6	301
+Disease	MESH:D054971	Orthostatic Intolerance	6	17
+Disease	MESH:D001342	Autonomic Nervous System Diseases	4	13
+Disease	MESH:D004244	Dizziness	4	13
+Disease	MESH:D007024	Hypotension Orthostatic	4	6
+Disease	MESH:D009437	Neuralgia	3	52
+Disease	MESH:D006331	Heart Diseases	3	20
+Disease	MESH:D005221	Fatigue	3	16
+Disease	MESH:D003072	Cognition Disorders	3	12
+Chemical	MESH:D009638	Norepinephrine	3	10
+Disease	MESH:D009422	Nervous System Diseases	3	9
+Disease	MESH:D006261	Headache	3	7
+Disease	MESH:D009325	Nausea	3	7
+Disease	MESH:D013575	Syncope	3	5
+Disease	MESH:D013610	Tachycardia	3	4
+Disease	MESH:D018908	Muscle Weakness	3	4
+Disease	MESH:D020896	Hypovolemia	3	4
+Disease	MESH:D003248	Constipation	3	3
+Disease	MESH:D000071075	Small Fiber Neuropathy	2	26
+Disease	MESH:D001007	Anxiety	2	14
+Chemical	MESH:D012964	Sodium	2	8
+Disease	MESH:D010146	Pain	2	6
+Disease	MESH:D009069	Movement Disorders	2	5
+Disease	MESH:D015673	Fatigue Syndrome Chronic	2	5
+Disease	MESH:D010523	Peripheral Nervous System Diseases	2	4
+Disease	MESH:D002318	Cardiovascular Diseases	2	3
+Disease	MESH:D004417	Dyspnea	2	3
+Chemical	MESH:D005438	Fludrocortisone	2	3
+Disease	MESH:D007593	Joint Instability	2	3
+Chemical	MESH:D008879	Midodrine	2	3
+Disease	MESH:D012817	Signs and Symptoms Digestive	2	3
+Disease	MESH:D014786	Vision Disorders	2	3
+Disease	MESH:D014839	Vomiting	2	3
+Disease	MESH:C535647	Gas bloat syndrome	2	2
+Chemical	MESH:D000077550	Ivabradine	2	2
+Chemical	MESH:D000109	Acetylcholine	2	2
+Disease	MESH:D000309	Adrenal Insufficiency	2	2
+Disease	MESH:D010673	Pheochromocytoma	2	2
+Chemical	MESH:D011729	Pyridostigmine Bromide	2	2
+Chemical	MESH:D012492	Salts	2	2
+Disease	MESH:D012893	Sleep Wake Disorders	2	2
+Disease	MESH:D013959	Thyroid Diseases	2	2
+Disease	MESH:D020521	Stroke	2	2
+Disease	MESH:D003866	Depressive Disorder	1	9
+Disease	MESH:D001327	Autoimmune Diseases	1	6
+Disease	MESH:D000014	Abnormalities Drug-Induced	1	5
+Disease	MESH:C535672	Acute cholinergic dysautonomia	1	4
+Disease	MESH:D002303	Cardiac Output Low	1	4
+Chemical	MESH:D002395	Catecholamines	1	4
+Disease	MESH:D006732	Horner Syndrome	1	4
+Disease	MESH:D003668	Pressure Ulcer	1	3
+Disease	MESH:D012859	Sjogren's Syndrome	1	3
+Disease	MESH:D020274	Autoimmune Diseases of the Nervous System	1	3
+Disease	MESH:D060825	Cognitive Dysfunction	1	3
+Disease	MESH:C564972	Myopathy with Lactic Acidosis Hereditary	1	2
+Disease	MESH:D001172	Arthritis Rheumatoid	1	2
+Disease	MESH:D002446	Celiac Disease	1	2
+Disease	MESH:D002637	Chest Pain	1	2
+Disease	MESH:D003681	Dehydration	1	2
+Disease	MESH:D005356	Fibromyalgia	1	2
+Disease	MESH:D006502	Budd-Chiari Syndrome	1	2
+Disease	MESH:D007022	Hypotension	1	2
+Disease	MESH:D008881	Migraine Disorders	1	2
+Disease	MESH:D011928	Raynaud Disease	1	2
+Disease	MESH:D013543	Sweat Gland Diseases	1	2
+Disease	MESH:D013616	Tachycardia Sinus	1	2
+Disease	MESH:D013736	Testicular Neoplasms	1	2
+Disease	MESH:D014549	Urinary Incontinence	1	2
+Disease	MESH:D050031	Hashimoto Disease	1	2
+Gene	5972	REN	1	1
+Gene	7345	UCHL1	1	1
+Disease	MESH:C536196	Ehlers-Danlos syndrome type 3	1	1
+Disease	MESH:C536350	Visceral myopathy familial external ophthalmoplegia	1	1
+Disease	MESH:C567712	Retinitis Pigmentosa Concentric	1	1
+Disease	MESH:C580055	Early-Onset Glaucoma	1	1
+Disease	MESH:D000075322	Heavy Metal Poisoning	1	1
+Chemical	MESH:D000438	Alcohols	1	1
+Chemical	MESH:D000450	Aldosterone	1	1
+Disease	MESH:D000740	Anemia	1	1
+Disease	MESH:D000855	Anorexia	1	1
+Disease	MESH:D001523	Mental Disorders	1	1
+Disease	MESH:D001927	Brain Diseases	1	1
+Disease	MESH:D003428	Cross Infection	1	1
+Disease	MESH:D003920	Diabetes Mellitus	1	1
+Disease	MESH:D003929	Diabetic Neuropathies	1	1
+Disease	MESH:D003967	Diarrhea	1	1
+Disease	MESH:D004535	Ehlers-Danlos Syndrome	1	1
+Disease	MESH:D005222	Mental Fatigue	1	1
+Disease	MESH:D005767	Gastrointestinal Diseases	1	1
+Chemical	MESH:D005990	Glycerol	1	1
+Disease	MESH:D006330	Heart Defects Congenital	1	1
+Disease	MESH:D006333	Heart Failure	1	1
+Disease	MESH:D006349	Heart Valve Diseases	1	1
+Disease	MESH:D006987	Hypesthesia	1	1
+Disease	MESH:D007007	Hypohidrosis	1	1
+Disease	MESH:D007239	Infections	1	1
+Disease	MESH:D007249	Inflammation	1	1
+Disease	MESH:D007251	Influenza Human	1	1
+Disease	MESH:D008171	Lung Diseases	1	1
+Disease	MESH:D009202	Cardiomyopathies	1	1
+Disease	MESH:D009461	Neurologic Manifestations	1	1
+Disease	MESH:D010292	Paresthesia	1	1
+Disease	MESH:D012678	Sensation Disorders	1	1
+Chemical	MESH:D012701	Serotonin	1	1
+Disease	MESH:D012791	Shy-Drager Syndrome	1	1
+Disease	MESH:D014277	Trigeminal Neuralgia	1	1
+Disease	MESH:D014777	Virus Diseases	1	1
+Disease	MESH:D014802	Vitamin A Deficiency	1	1
+Disease	MESH:D014985	Xerophthalmia	1	1
+Disease	MESH:D014987	Xerostomia	1	1
+Disease	MESH:D015431	Weight Loss	1	1
+Disease	MESH:D015658	HIV Infections	1	1
+Disease	MESH:D015746	Abdominal Pain	1	1
+Disease	MESH:D016388	Tooth Loss	1	1
+Disease	MESH:D018149	Glucose Intolerance	1	1
+Disease	MESH:D018589	Gastroparesis	1	1
+Disease	MESH:D019547	Neck Pain	1	1
+Disease	MESH:D019966	Substance-Related Disorders	1	1
+Disease	MESH:D020031	Epstein-Barr Virus Infections	1	1
+Disease	MESH:D020258	Neurotoxicity Syndromes	1	1
+Disease	MESH:D029424	Pulmonary Disease Chronic Obstructive	1	1
+Disease	MESH:D054318	No-Reflow Phenomenon	1	1
+Disease	MESH:D063806	Myalgia	1	1
+Disease	OMIM:201300	201300	1	1

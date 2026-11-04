@@ -136,7 +136,8 @@ def expand(project: Project, http: Http, eutils: EUtils) -> dict:
     write_tsv(project.out / "expansion.tsv", ["seed", "route", "pmid", "score"], edges)
     write_tsv(project.out / "expansion_seeds.tsv", ["seed", "key", "icite_found", "references", "cited_by", "related"], summary)
     info = {"edges": len(edges), "papers": len({e["pmid"] for e in edges}),
-            "seeds_missing_from_icite": [s["key"] for s in summary if not s["icite_found"]]}
+            "seeds_missing_from_icite": [s["key"] for s in summary if not s["icite_found"]],
+            "seeds_without_citation_links": [s["key"] for s in summary if s["icite_found"] and not s["references"] + s["cited_by"]]}
     project.log_step("expand", {k: info[k] for k in ("edges", "papers")})
     return info
 

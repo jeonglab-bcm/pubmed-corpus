@@ -52,6 +52,26 @@ papers citing Low 2009 against 260 in iCite (NIH Open Citation Collection) and
 files and are byte-identical for identical inputs; CI replays every committed
 project with `--check`.
 
+## Benchmark: POTS ([`projects/pots/REPORT.md`](projects/pots/REPORT.md))
+
+The six PubMed-indexed seed papers of `jeonglab-bcm/POTS-phenotyping`. The core query was drafted by
+`pubmed-corpus terms` and used as drafted, with no hand-added clauses; the reference is that repository's
+2,668-paper corpus, built with a hand-written 7-clause query.
+
+| | Papers |
+|---|---|
+| Corpus | 3,728 (6 seeds, 2,134 core, 1,539 full-text, 49 expansion) |
+| Reference papers found | 2,080 of 2,668 (78.0%); the core alone finds 2,072 (77.7%) |
+| ...if the two proposed clauses were approved | 98.9% |
+| PubTator papers tagged POTS / kept after the wording audit | 30,932 / 3,375 (1,539 of them outside the core) |
+| Reached from the seeds / reached only from the seeds / kept by the screen | 710 / 151 / 49 |
+
+555 of the 588 missed reference papers use only historical names ("neurocirculatory asthenia",
+"Da Costa syndrome"). The drafted query cannot know them, which is why the skill makes the agent propose
+historical names and the user approve them. The `tiab_historical_names` clause in `projects/pots/query.yaml`
+recovers them; it was copied from the reference after the first report and is kept `proposed` so the
+benchmark stays honest. Most of the remaining 30 are "orthostatic intolerance" papers.
+
 ## Quick start
 
 ```bash

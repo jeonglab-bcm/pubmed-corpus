@@ -1,0 +1,32 @@
+# Wording audit for the PubTator full-text tier (MESH:D054972, release of 2026-10-06).
+# Drafted by the agent under the skill's rule: approve wordings that name the syndrome itself
+# (full name, acronym, subtypes, truncations that only the syndrome uses); reject signs,
+# symptoms, other conditions and posture words that PubTator mapped to the concept.
+#
+# "postural tachycardia" and "orthostatic tachycardia" without "syndrome" are rejected: they
+# also name the sign, in orthostatic hypotension, Parkinson's disease, heart failure and
+# deconditioning papers, and a paper that is really about the syndrome almost always also
+# uses its name or the acronym, which approves the paper anyway.
+min_papers_to_decide: 20
+approve:
+  - postural orthostatic tachycardia syndrome
+  - postural tachycardia syndrome
+  - postural orthostatic tachycardia
+  - orthostatic tachycardia syndrome
+  - pots
+approve_patterns:
+  - '.*\bpots\b.*'                                     # acronym, subtypes ("neuropathic pots"), "pots symptoms"
+  - '.*\bpostural (orthostatic )?tachycardia syndromes?\b.*'
+  - '.*\bpostural orthostatic tachycardia\b.*'
+  - '.*\borthostatic tachycardia syndromes?\b.*'
+  - '.*\bpostural[\s-]+\(?(orthostatic\)?[\s-]+)?tachycardiac?[\s-]+syndromes?\b.*'   # hyphens, brackets, "tachycardiac"
+  - '.*\borthostatic postural tachycardia\b.*'      # inverted name
+  - '.*\bh(yper)?pots\b.*'                          # hyperadrenergic POTS abbreviated
+reject:
+  - postural tachycardia                               # also the sign
+  - orthostatic tachycardia                            # also the sign
+  - pi                                                 # postural instability
+  - pc                                                 # postural control
+  - pigd                                               # postural instability and gait difficulty
+reject_patterns:
+  - '(?!.*tachycardia)(?!.*\bpots\b).*postur.*'        # posture, postural instability, dystonic posturing, ...

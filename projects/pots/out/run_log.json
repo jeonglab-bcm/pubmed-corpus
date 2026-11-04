@@ -1,0 +1,33 @@
+{
+  "expand": {
+    "date": "2026-11-04",
+    "edges": 1203,
+    "papers": 710
+  },
+  "metadata": {
+    "date": "2026-11-04",
+    "missing": 2,
+    "records": 4420,
+    "retracted": 0
+  },
+  "pubtator": {
+    "content_length": 2180457155,
+    "date": "2026-11-04",
+    "last_modified": "Tue, 06 Oct 2026 15:44:58 GMT",
+    "papers": 30932,
+    "rows": 30932,
+    "url": "https://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator3/disease2pubtator3.gz"
+  },
+  "query": {
+    "clauses_run": 6,
+    "core_papers": 2140,
+    "date": "2026-11-04"
+  },
+  "terms": {
+    "date": "2026-11-04",
+    "drafted_clauses": 5,
+    "mesh": "D054972",
+    "seed_documents": 6,
+    "seed_wordings": 15
+  }
+}
