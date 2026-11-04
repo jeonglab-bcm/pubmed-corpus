@@ -139,6 +139,8 @@ def test_full_skill_run(setup, capsys):
     report = (root / "REPORT.md").read_text()
     assert "| + fulltext | 3 | 60.0% |" in report
     assert "Proposed clause `mesh_previous_indexing_1982_2008` would recover 1 of them." in report
+    assert "With every proposed clause approved, recall would be 80.0%." in report
+    assert "Missed reference papers that no proposed clause recovers: 1 (first by PMID):" in report
     assert "| postural instability | 2 | 2 |" in report
     assert "| seedB | 200 | **no** | 0 | 0 | 1 |" in report
     assert run("report", p, "--check") == 0

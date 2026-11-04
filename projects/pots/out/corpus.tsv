@@ -3,6 +3,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 1094320	core	1975	tiab_seed_wordings					1	9-Alpha-fluorohydrocortisone in the treatment of postural hypotension in diabetic autonomic neuropathy.
 1114989	core	1975	tiab_seed_wordings					0	Letter: Propranolol in orthostatic tachycardia.
 1268653	core	1976	tiab_seed_wordings				PMC1639825	1	Twenty-four hour monitoring of heart rate and activity in patients with diabetes mellitus: a comparison with clinic investigations.
+1348300	expansion	1992			low2009:references	include		1	Physical manoeuvres for combating orthostatic dizziness in autonomic failure.
 1649724	core	1991	tiab_seed_wordings					1	Circulatory adaptation to orthostatic stress in healthy 10-14-year-old children investigated in a general practice.
 1653669	core	1991	tiab_seed_wordings					1	Spectrum of orthostatic disorders: classification based on an analysis of the short-term circulatory response upon standing.
 1768559	core	1991	tiab_seed_wordings				PMC1368546	1	Clinical pharmacology of prochlorperazine in healthy young males.
@@ -10,10 +11,13 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 1822261	core	1991	tiab_seed_wordings					1	Postural dizziness and transient hypotension in two healthy teenagers.
 2045464	core	1991	tiab_seed_wordings	orthostatic tachycardia syndrome				1	The orthostatic tachycardia syndrome: evaluation of autonomic function and treatment with octreotide and ergot alkaloids.
 2084085	core	1990	tiab_seed_wordings					1	Autonomic reflexes in borderline hypertensives.
+2243132	expansion	1990			gibbons2013:references	include	PMC296906	1	Pathogenesis of hyperadrenergic orthostatic hypotension. Evidence of disordered venous innervation exclusively in the lower limbs.
 2563955	core	1989	tiab_seed_wordings					1	Hemodynamic and adrenergic responses of bevantolol and propranolol in hypertensives.
 2621185	core	1989	tiab_seed_wordings					1	Autonomic function tests in cases of chronic severe anaemia.
 2802964	core	1989	tiab_seed_wordings					1	[A mechanical method for changing heart rate and blood pressure].
+2909911	expansion	1989			gibbons2013:references;low2009:references	include		1	Sympathotonic orthostatic hypotension: a report of four cases.
 3343547	core	1988	tiab_seed_wordings		low2009:references			1	Abnormal orthostatic changes in blood pressure and heart rate in subjects with intact sympathetic nervous function: evidence for excessive venous pooling.
+3511818	expansion	1986			low2009:references	include		1	Idiopathic hypovolemia.
 3807137	core	1986	tiab_seed_wordings					1	[Orthostatic ECG changes in hypertension].
 3836106	core	1985	tiab_seed_wordings					1	Discrimination between cardiac para- and sympathetic damage in diabetics.
 4415340	core	1974	tiab_seed_wordings					0	Propranolol in the treatment of orthostatic tachycardia associated with orthostatic hypotension.
@@ -24,6 +28,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 7125325	core	1982	tiab_seed_wordings					0	Orthostatic tachycardia and ectopic pregnancy: normal pulse rate in the presence of massive hemorrhage.
 7485211	core	1995	tiab_seed_wordings	orthostatic tachycardia syndrome				1	Treatment of orthostatic tachycardia with erythropoietin.
 7616849	core	1995	tiab_seed_wordings					1	Effects of beta-blockade on hepatic conversion of amino acid nitrogen and on urea synthesis in cirrhosis.
+7674527	expansion	1995			low2009:references	include		1	The relationship between neurally mediated hypotension and the chronic fatigue syndrome.
 7746369	core	1995	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots	low2009:references			1	Postural tachycardia syndrome (POTS).
 7780285	core	1995	tiab_seed_wordings		gibbons2013:references			1	Orthostatic intolerance and orthostatic tachycardia: a heterogeneous disorder.
 7804460	core	1994	tiab_seed_wordings	postural tachycardia syndromes				1	Autonomic neuropathies.
@@ -31,16 +36,20 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 8042529	core	1994	tiab_seed_wordings					1	Orthostatic tolerance and autonomous nervous functions before and after 20-days bed rest.
 8423877	core	1993	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	idiopathic postural orthostatic tachycardia syndrome;pots	gibbons2013:related;lau2026:references;low2009:references;zhang2022:references;zhang2022:related			1	Idiopathic postural orthostatic tachycardia syndrome: an attenuated form of acute pandysautonomia?
 8458992	core	1993	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome	low2009:references;zhang2022:related			1	Autonomic nervous system function.
+8673750	expansion	1996			low2009:references	include	PMC484248	1	Salt supplement increases plasma volume and orthostatic tolerance in patients with unexplained syncope.
 8682046	core	1995	tiab_seed_wordings					0	Orthostatic tachycardia due to hypovolaemia and beta-adrenergic hypersensitivity.
 8777834	core	1996	tiab_seed_wordings					1	Excessive gravitational blood pooling caused by impaired venous tone is the predominant non-cardiac mechanism of orthostatic intolerance.
+8790259	expansion	1996			low2009:references	include		1	Role of physical countermaneuvers in the management of orthostatic hypotension: efficacy and biofeedback augmentation.
 8862222	core	1996	tiab_seed_wordings					1	Mechanisms of orthostatic hypotension and tachycardia in patients with pheochromocytoma.
 8899252	core	1996	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;postural tachycardia syndromes				1	Possible relationship between chronic fatigue and postural tachycardia syndromes.
 8902319	core	1996	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots;pots-f;pots-nf	gibbons2013:related;zhang2022:related			1	Certain cardiovascular indices predict syncope in the postural tachycardia syndrome.
 8985622	core	1996	tiab_seed_wordings					1	Head-up tilt table test: how far and how long?
 8988490	core	1996	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots	gibbons2013:related;zhang2022:related			1	Postural tachycardia syndrome: time frequency mapping.
+9217617	expansion	1997			gibbons2013:references	include		1	Does the chronic fatigue syndrome involve the autonomic nervous system?
 9244228	core	1997	tiab_seed_wordings					1	Effects of volume loading and pressor agents in idiopathic orthostatic tachycardia.
 9274896	core	1997	tiab_seed_wordings					1	Hypovolemia in syncope and orthostatic intolerance role of the renin-angiotensin system.
 9309745	core	1997	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	The postural orthostatic tachycardia syndrome: a neurocardiogenic variant identified during head-up tilt table testing.
+9430805	expansion	1997			low2009:references	include		1	Efficacy of compression of different capacitance beds in the amelioration of orthostatic hypotension.
 9541904	core	1998	tiab_seed_wordings	orthostatic postural tachycardia				1	[Orthostatic postural tachycardia: study of 8 patients].
 9542179	core	1998	tiab_seed_wordings	orthostatic tachycardia syndromes				1	[Orthostatic tachycardia syndromes].
 9623125	core	1998	tiab_seed_wordings					1	[No strong evidence of disturbed regulation of blood pressure in chronic fatigue syndrome].
@@ -52,6 +61,8 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 10037112	core	1999	tiab_seed_wordings	postural tachycardia syndromes				1	Idiopathic orthostatic intolerance and postural tachycardia syndromes.
 10037116	core	1999	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	Cerebrovascular regulation in the postural orthostatic tachycardia syndrome (POTS).
 10067135	core	1999	tiab_seed_wordings					1	[Does constitutional hypotension exist?].
+10073520	expansion	1999			low2009:references	include		0	A potent pressor response elicited by drinking water.
+10189122	expansion	1999			lau2026:references;low2009:references	include		1	Orthostatic intolerance in the chronic fatigue syndrome.
 10225614	core	1999	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots	angeli2024:related;chung2026:related			1	Diagnosis of tachycardia syndromes associated with orthostatic symptoms.
 10406593	core	1999	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	idiopathic postural orthostatic tachycardia syndrome;pots				1	Analysis of heart rate variability during head-up tilt testing in a patient with idiopathic postural orthostatic tachycardia syndrome (POTS).
 10412840	core	1999	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots				1	Cerebrovascular mechanisms in neurocardiogenic syncope with and without postural tachycardia syndrome.
@@ -63,6 +74,8 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 10568559	core	1999	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	Putting it together: a new treatment algorithm for vasovagal syncope and related disorders.
 10590025	core	1999	tiab_seed_wordings					1	Instantaneous orthostatic hypotension in children and adolescents: a new entity of orthostatic intolerance.
 10637809	core	1999	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				1	[Differential orthostatic dysregulation disorders diagnosis].
+10638807	expansion	1999			gibbons2013:references	include		1	Autonomic function in patients with chronic fatigue syndrome.
+10662747	expansion	2000			low2009:references	include		1	The pressor response to water drinking in humans : a sympathetic reflex?
 10684912	core	2000	tiab_seed_wordings					1	Orthostatic intolerance and tachycardia associated with norepinephrine-transporter deficiency.
 10687127	core	1999	tiab_seed_wordings	orthostatic tachycardia syndrome				0	[Orthostatic tachycardia syndrome. Update on etiology, diagnosis and treatment].
 10736822	core	2000	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	[Syndromes of autonomic dysfunction associated with orthostatic intolerance].
@@ -110,6 +123,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 11688839	core	2001	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				0	Mechanisms of postural tachycardia syndrome.
 11710800	core	2001	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia;postural tachycardia syndrome				1	Postural tachycardia syndrome in syringomyelia: response to fludrocortisone and beta-blockers.
 11799098	core	2002	tiab_seed_wordings		low2009:references			1	Increased sympathetic activation in idiopathic orthostatic intolerance: role of systemic adrenoreceptor sensitivity.
+11823926	expansion	2002			chung2026:related	include		1	[Syncope - a systematic overview of classification, pathogenesis, diagnosis and management].
 11888028	core	2002	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots				1	Evidence of an intrinsic sinus node abnormality in patients with postural tachycardia syndrome.
 11904109	core	2002	tiab_seed_wordings		low2009:references			1	Water drinking as a treatment for orthostatic syndromes.
 11975830	core	2002	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				1	Orthostatic hypotension in pediatrics.
@@ -189,6 +203,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 16028460	core	2005	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC6654702	1	Deciphering the sinus tachycardias.
 16087110	core	2005	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots				1	Cerebral blood flow during supine rest and the first minute of head-up tilt in patients with orthostatic intolerance.
 16143646	core	2006	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC4513355	1	Persistent splanchnic hyperemia during upright tilt in postural tachycardia syndrome.
+16171763	expansion	2005			low2009:references	include		0	How to manage patients with inappropriate sinus tachycardia.
 16176538	core	2005	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots	angeli2024:related			1	Continuous progression of orthostatic tachycardia as a further feature of the postural tachycardia syndrome.
 16203873	core	2005	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots;pots symptoms				1	Endothelial NO synthase polymorphisms and postural tachycardia syndrome.
 16221272	core	2005	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	low2009:references			1	Inappropriate sinus tachycardia, postural orthostatic tachycardia syndrome, and overlapping syndromes.
@@ -211,6 +226,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 16698864	core	2006	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	Anaesthetic management of a parturient with the postural orthostatic tachycardia syndrome: a case report.
 16775435	core	2006	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots				1	Patterns of hypocapnia on tilt in patients with fibromyalgia, chronic fatigue syndrome, nonspecific dizziness, and neurally mediated syncope.
 16785272	core	2006	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				1	The neuronal noradrenaline transporter, anxiety and cardiovascular disease.
+16832073	expansion	2006			low2009:references	include		1	Delayed orthostatic hypotension: a frequent cause of orthostatic intolerance.
 16878288	core	2007	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				1	[Tilt-table-testing in childhood: non-invasive, continuous hemodynamic monitoring].
 16915526	core	2006	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots	lau2026:references			1	Experimental induction of panic-like symptoms in patients with postural tachycardia syndrome.
 16943900	core	2006	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	central hyperadrenergic pots;hyperadrenergic pots;neuropathic pots;postural tachycardia syndrome;pots	low2009:related		PMC1501099	1	The Postural Tachycardia Syndrome (POTS): pathophysiology, diagnosis & management.
@@ -368,6 +384,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 20939897	fulltext	2010		postural tachycardia syndrome			PMC2967492	1	Effects of the α1-adrenoceptor agonist phenylephrine on SART stress-induced orthostatic hypotension in rats.
 20960537	core	2010	tiab_seed_wordings	postural orthostatic tachycardia			PMC6653231	1	Autonomic dysfunction presenting as orthostatic intolerance in patients suffering from mitochondrial cytopathy.
 20970148	fulltext	2011		postural tachycardia syndrome;pots			PMC3029466	0	"""He's dizzy when he stands up"": an introduction to initial orthostatic hypotension."
+21037047	expansion	2010			low2009:cited_by	include	PMC2966369	0	Clinical pearls in nephrology.
 21044941	core	2010	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots				1	[A simple miracle of water].
 21062792	core	2011	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC3043639	1	Single centre experience of ivabradine in postural orthostatic tachycardia syndrome.
 21087570	core	2010	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	The role of the cardiologist in the evaluation of dysautonomia.
@@ -378,6 +395,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 21188460	core	2011	mesh_heading;tiab_acronym_guarded;tiab_seed_wordings					1	Orthostatic heart rate responses after prolonged space flights.
 21197136	fulltext	2010		orthostatic tachycardia syndrome;postural tachycardia syndrome			PMC3011183	1	Music and Autonomic Nervous System (Dys)function.
 21208233	core	2011	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;postural tachycardia syndrome;pots	angeli2024:related;chung2026:related;gibbons2013:related;lau2026:related;low2009:related;zhang2022:related			1	Neurocardiogenic syncope coexisting with postural orthostatic tachycardia syndrome in patients suffering from orthostatic intolerance: a combined form of autonomic dysfunction.
+21244555	expansion	2011			low2009:cited_by	include		1	Head-up tilt testing in children and young people: a retrospective observational study.
 21253997	core	2011	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome	low2009:cited_by			0	[Postural orthostatic tachycardia syndrome: current concepts in pathophysiology, diagnosis and therapeutic options].
 21266211	core	2011	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots	lau2026:references		PMC3050076	1	Abnormalities of angiotensin regulation in postural tachycardia syndrome.
 21301135	core	2011	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	lau2026:references			1	Midodrine hydrochloride is effective in the treatment of children with postural orthostatic tachycardia syndrome.
@@ -395,6 +413,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 21474006	core	2011	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	Dizziness and vertigo in the adolescent.
 21489936	core	2011	mesh_heading					1	Asymptomatic lower extremity acrocyanosis: report of two cases and review of the literature.
 21509337	core	2011	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots	gibbons2013:related		PMC3077350	1	Sleep disturbances and diminished quality of life in postural tachycardia syndrome.
+21509598	expansion	2011			low2009:cited_by	include		1	[Orthostatic hypotension : diagnosis and therapy].
 21536847	core	2011	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC3129924	1	Baroreceptor unloading in postural tachycardia syndrome augments peripheral chemoreceptor sensitivity and decreases central chemoreceptor sensitivity.
 21539639	core	2011	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots				1	Atrioventricular node ablation and pacemaker implantation for recurrent syncope in a patient with postural tachycardia syndrome (POTS).
 21563100	core	2011	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				1	[Orthostatic headache with tachycardia].
@@ -428,6 +447,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 21977261	core	2006	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	idiopathic postural orthostatic tachycardia syndrome;postural orthostatic tachycardia syndrome;pots			PMC3184666	1	Heart rate variability analysis in postural orthostatic tachycardia syndrome: a case report.
 21996154	core	2012	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots	angeli2024:related		PMC3258321	1	Postural tachycardia in children and adolescents: what is abnormal?
 22037101	core	2011	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				1	Implications of tilt-table induced faint time in patients with reflex syncope.
+22045363	expansion	2012			gibbons2013:references	include		1	The Orthostatic Hypotension Questionnaire (OHQ): validation of a novel symptom assessment scale.
 22088522	core	2011	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	A diagnosis-based health economic analysis of postural orthostatic tachycardia syndrome in Chinese children.
 22099197	core	2011	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	[Diagnosis of vasovagal syncope in children with postural orthostatic tachycardia syndrome].
 22130180	fulltext	2012		postural tachycardia syndrome;pots	low2009:cited_by		PMC3259269	1	"Autoantibody activation of beta-adrenergic and muscarinic receptors contributes to an ""autoimmune"" orthostatic hypotension."
@@ -576,6 +596,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 24289848	fulltext	2013		postural orthostatic tachycardia syndrome			PMC3978642	1	Beyond pain in fibromyalgia: insights into the symptom of fatigue.
 24312678	fulltext	2013		postural tachycardia syndrome			PMC3847099	1	Methylation of the SLC6a2 gene promoter in major depression and panic disorder.
 24340168	fulltext	2012		postural orthostatic tachycardia			PMC3856907	1	Pediatric Myalgic Encephalomyelitis/Chronic Fatigue Syndrome.
+24340521	expansion	2013			low2009:cited_by	include		1	Orthostatic intolerance and chronic fatigue syndrome--possible related conditions.
 24343075	core	2013	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	[Significance of serum iron in the differential diagnosis between vasovagal syncope and postural orthostatic tachycardia syndrome in children].
 24366986	core	2014	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	Postural orthostatic tachycardia syndrome (POTS) and vitamin B12 deficiency in adolescents.
 24367224	fulltext	2011		positional orthostatic tachycardia syndrome;pots			PMC3846459	1	Autonomic dysfunction in chronic liver disease.
@@ -633,6 +654,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 25002851	core	2014	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC4067089	1	Altered oscillatory cerebral blood flow velocity and autoregulation in postural tachycardia syndrome.
 25009503	core	2014	tiab_seed_wordings				PMC4068294	1	Influence of regular exercise training on post-exercise hemodynamic regulation to orthostatic challenge.
 25009504	core	2014	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	lau2026:references		PMC4070177	1	Cognitive function, health-related quality of life, and symptoms of depression and anxiety sensitivity are impaired in patients with the postural orthostatic tachycardia syndrome (POTS).
+25012479	expansion	2014			low2009:cited_by	include		1	Autonomic dysfunction in chronic persistent dizziness.
 25017862	core	2014	tiab_seed_wordings					1	Autonomic control of heart rate during orthostasis and the importance of orthostatic-tachycardia in the snake Python molurus.
 25022620	core	2015	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	Different haemodynamic patterns in head-up tilt test on 400 paediatric cases with unexplained syncope.
 25033770	core	2014	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	hyperadrenergic pots;neuropathic pots;postural orthostatic tachycardia syndrome;postural tachycardia syndrome;pots	zhang2022:related		PMC4165658	1	Decreased orthostatic adrenergic reactivity in non-dipping postural tachycardia syndrome.
@@ -799,6 +821,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 26789908	fulltext	2016		postural orthostatic tachycardia syndrome			PMC4940238	1	P/Q- and N-type calcium-channel antibodies: Oncological, neurological, and serological accompaniments.
 26801310	core	2016	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome			PMC4867344	1	Oscillatory lower body negative pressure impairs task related functional hyperemia in healthy volunteers.
 26804567	fulltext	2016		postural orthostatic tachycardia syndrome			PMC5453501	1	Strategies for phrenic nerve preservation during ablation of inappropriate sinus tachycardia.
+26806722	expansion	2016			low2009:cited_by	include		1	Orthostatic hypertension: An underestimated cause of orthostatic intolerance.
 26814068	core	2015	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots				1	[Relationship between 24-hour urinary sodium and renin-angiotensin-aldosterone system in children with postural tachycardia syndrome].
 26841184	core	2016	mesh_heading					0	[49-year-old woman with syncopes, dizziness and palpitations].
 26846121	fulltext	2016		postural orthostatic tachycardia syndrome			PMC4814298	1	Insulinoma After Bariatric Surgery: Diagnostic Dilemma and Therapeutic Approaches.
@@ -929,6 +952,12 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 28262205	fulltext	2017		postural orthostatic tachycardia syndrome			PMC5341697	1	Characterization of Mast Cell Activation Syndrome.
 28262331	fulltext	2017		postural orthostatic tachycardia syndrome;pots			PMC5444082	1	Adverse events following quadrivalent meningococcal CRM-conjugate vaccine (Menveo®) reported to the Vaccine Adverse Event Reporting system (VAERS), 2010-2015.
 28266092	fulltext	2017		postural orthostatic tachycardia syndrome;postural orthostatic tachycardia syndrome.35			PMC5516175	1	Six-year multi-centre, observational, post-marketing surveillance of the safety of the HPV-16/18 AS04-adjuvanted vaccine in women aged 10-25 years in Korea.
+28280231	expansion	2017			gibbons2013:cited_by;low2009:cited_by	include		0	2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+28280232	expansion	2017			gibbons2013:cited_by;low2009:cited_by	include		0	2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+28286221	expansion	2017			gibbons2013:cited_by;low2009:cited_by	include		0	2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+28286222	expansion	2017			low2009:cited_by	include		0	2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+28286246	expansion	2017			low2009:cited_by	include		0	2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope: Executive summary: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+28286247	expansion	2017			gibbons2013:cited_by;low2009:cited_by	include		0	2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
 28286774	core	2017	mesh_heading;tiab_entry_terms;tiab_seed_wordings	orthostatic tachycardia syndrome;postural orthostatic tachycardia;postural orthostatic tachycardia symptoms;postural orthostatic tachycardia syndrome;pots	gibbons2013:cited_by		PMC5329674	1	Orthostatic Intolerance and Postural Orthostatic Tachycardia Syndrome in Joint Hypermobility Syndrome/Ehlers-Danlos Syndrome, Hypermobility Type: Neurovegetative Dysregulation or Autonomic Failure?
 28341888	fulltext	2017		postural tachycardia syndrome			PMC5610228	1	The respiratory control of carbon dioxide in children and adolescents referred for treatment of psychogenic non-epileptic seizures.
 28351846	core	2017	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC5369676	1	Postural Heart Rate Changes in Young Patients With Vasovagal Syncope.
@@ -1084,6 +1113,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 29530592	core	2018	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	angeli2024:related;low2009:related			1	Postural Orthostatic Tachycardia Syndrome (POTS) in Denmark: Increasingly recognized or new epidemic?
 29549458	core	2018	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	benarroch postural tachycardia syndrome;hypovolemic pots;neuropathic postural tachycardia syndrome;neuropathic pots;postural orthostatic tachycardia syndrome;postural tachycardia syndrome;pots;pots gastrointestinal complications;pots gastrointestinal symptoms	gibbons2013:cited_by;gibbons2013:related		PMC6314490	1	Gastrointestinal symptoms in postural tachycardia syndrome: a systematic review.
 29559204	core	2018	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC6139086	1	Special issue for the silver anniversary of Postural Tachycardia Syndrome.
+29562304	expansion	2018			low2009:cited_by	include		0	2018 ESC Guidelines for the diagnosis and management of syncope.
 29562607	fulltext	2018		pots			PMC5867488	1	A Cohort Study Comparing Women with Autism Spectrum Disorder with and without Generalized Joint Hypermobility.
 29572887	fulltext	2018		postural tachycardia syndrome;pots			PMC6283273	1	Fibromyalgia syndrome and small fiber, early or mild sensory polyneuropathy.
 29587413	fulltext	2018		postural orthostatic tachycardia			PMC5979373	1	Multifaced Roles of the αvβ3 Integrin in Ehlers-Danlos and Arterial Tortuosity Syndromes' Dermal Fibroblasts.
@@ -1347,6 +1377,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 31493116	core	2020	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				1	Correction to: ST‑segment changes during tilt table testing for postural tachycardia syndrome: correlation with exercise stress test results.
 31495251	core	2019	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	hyperadrenergic pots;postural orthostatic tachycardia;postural orthostatic tachycardia syndrome;pots;pots.11;pots.31;pots.54			PMC6818019	1	Postural Orthostatic Tachycardia Syndrome Is Associated With Elevated G-Protein Coupled Receptor Autoantibodies.
 31498378	core	2019	tiab_seed_wordings	postural orthostatic tachycardia;postural orthostatic tachycardia syndrome;pots			PMC10021074	1	Scientific Advances in and Clinical Approaches to Small-Fiber Polyneuropathy: A Review.
+31504425	expansion	2020			low2009:cited_by	include		0	2019 ESC Guidelines for the management of patients with supraventricular tachycardiaThe Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC).
 31523590	fulltext	2019		postural orthostatic tachycardia syndrome			PMC6721870	1	A Case of Epidural Management in a Pregnant Patient with Spinal Epidural Lipomatosis.
 31534934	fulltext	2019		postural orthostatic tachycardia syndrome;pots			PMC6727449	1	Chronic Systemic Metal Ion Toxicity from Wear on a Revised Cobalt-chromium Trunnion.
 31537586	core	2019	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	angeli2024:related;chung2026:related;lau2026:related;low2009:related		PMC6754633	1	Postural orthostatic tachycardia syndrome in primary care: diagnosis, treatment and a case of African-American man presenting with POTS.
@@ -1493,6 +1524,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 32544859	core	2020	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	gibbons2013:related;lau2026:references			1	Psychological correlates of patients with postural orthostatic tachycardia syndrome (POTS).
 32545797	core	2020	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC7349207	1	Cerebral Blood Flow Is Reduced in Severe Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Patients During Mild Orthostatic Stress Testing: An Exploratory Study at 20 Degrees of Head-Up Tilt Testing.
 32557670	fulltext	2020		postural orthostatic tachycardia syndrome			PMC7368349	1	An analysis of vascular properties using pulse wave analysis in patients with vasovagal syncope.
+32568144	expansion	2020			low2009:cited_by	include		1	Clinically accessible tools for documenting the impact of orthostatic intolerance on symptoms and function in ME/CFS.
 32568150	core	2020	tiab_entry_terms;tiab_seed_wordings					1	Impact of Myalgic Encephalomyelitis on treatment of comorbidities: A lived experience.
 32570139	core	2020	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings		gibbons2013:cited_by;zhang2022:references;zhang2022:related			1	Utility of salivary gland biopsy in diagnosing Sjogren's syndrome in a POTS patient population.
 32577128	fulltext	2020		postural orthostatic tachycardia syndrome;pots			PMC7307134	1	Prevention and control of HPV infection and HPV-related cancers in Colombia- a meeting report.
@@ -1652,6 +1684,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 33410480	core	2021	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	Prevalence of gastrointestinal, cardiovascular, autonomic and allergic manifestations in hospitalized patients with Ehlers-Danlos syndrome: a case-control study.
 33411193	core	2021	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				1	Clinical characteristics and hemodynamic responses to head-up tilt test in children and adolescents with unexplained sighing.
 33417078	core	2021	tiab_seed_wordings					1	Chemotherapy and Radiation-Associated Cardiac Autonomic Dysfunction.
+33419664	expansion	2021			angeli2024:references;low2009:cited_by	include		1	Electrodiagnostic assessment of the autonomic nervous system: A consensus statement endorsed by the American Autonomic Society, American Academy of Neurology, and the International Federation of Clinical Neurophysiology.
 33423527	core	2021	mesh_heading;tiab_entry_terms;tiab_seed_wordings	neuropathic pots;postural tachycardia syndrome;pots;upright postural tachycardia syndrome			PMC7946724	1	Supine Parasympathetic Withdrawal and Upright Sympathetic Activation Underly Abnormalities of the Baroreflex in Postural Tachycardia Syndrome: Effects of Pyridostigmine and Digoxin.
 33428036	core	2021	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	gibbons2013:related			1	Regional Gastrointestinal Transit and Contractility Patterns Vary in Postural Orthostatic Tachycardia Syndrome (POTS).
 33437956	fulltext	2021		postural orthostatic tachycardia syndrome;pots			PMC7786113	1	Ehlers-Danlos Syndrome: Immunologic contrasts and connective tissue comparisons.
@@ -1958,6 +1991,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 34648081	fulltext	2021		postural tachycardia syndrome			PMC8485771	1	Biological and Psychological Factors Determining Neuropsychiatric Outcomes in COVID-19.
 34650349	fulltext	2021		postural tachycardia syndrome;pots			PMC8503490	1	Long COVID: long-term effects?
 34650410	fulltext	2021		postural tachycardia syndrome;pots			PMC8507558	1	Variable Response of Norepinephrine Transporter to Traumatic Stress and Relationship to Hyperarousal.
+34655930	expansion	2021			low2009:cited_by	include		1	Salt: The paradoxical philosopher's stone of autonomic medicine.
 34667909	core	2021	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	chung2026:related		PMC8505270	1	Cerebral blood flow remains reduced after tilt testing in myalgic encephalomyelitis/chronic fatigue syndrome patients.
 34671311	fulltext	2021		postural orthostatic tachycardia syndrome			PMC8521005	1	Visual Snow Syndrome as a Network Disorder: A Systematic Review.
 34673815	fulltext	2021		postural tachycardia syndrome			PMC8530281	1	Validation of the Korean version of the composite autonomic symptom scale 31 in patients with Parkinson's disease.
@@ -2062,6 +2096,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 35002785	fulltext	2021		postural orthostatic tachycardia syndrome;pots			PMC8727687	0	Editorial: Hypoxia and Cardiorespiratory Control.
 35005437	fulltext	2022		postural tachycardia syndrome			PMC8715289	1	Creation of a Multispecialty Clinic for Patients with Central Sensitization-Based Chronic Pain Conditions.
 35024055	fulltext	2021		postural orthostatic tachycardia syndrome			PMC8728882	1	Neuromodulatory Approaches for Atrial Fibrillation Ablation.
+35029940	expansion	2022			chung2026:related	include		1	Orthostatic Hypotension: A Practical Approach.
 35035353	core	2021	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC8756818	1	Autonomic Dysfunction in Autism Spectrum Disorder.
 35035423	core	2022	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC8713199	1	Comparison of cortisol levels in patients with vasovagal syncope and postural tachycardia syndrome.
 35038855	fulltext	2022		postural tachycardia syndrome			PMC8841262	1	Recent update on epidural blood patch.
@@ -2205,6 +2240,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 35507733	fulltext	2022		postural orthostatic tachycardia syndrome;postural tachycardia syndrome;pots			PMC9073101	0	"Erratum to ""A review of respiratory manifestations and their management in Ehlers-Danlos syndromes and hypermobility spectrum disorders""."
 35523634	core	2022	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots	angeli2024:related;low2009:related			1	Postural tachycardia syndrome among adolescents.
 35525992	core	2022	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC9077338	1	Protocol update for a randomised controlled feasibility trial of exercise rehabilitation for people with postural tachycardia syndrome: the PULSE study.
+35526605	expansion	2022			gibbons2013:cited_by	include		1	Neurovascular Dysregulation and Acute Exercise Intolerance in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Randomized, Placebo-Controlled Trial of Pyridostigmine.
 35530658	fulltext	2022		postural orthostatic tachycardiac syndrome;postural tachycardia syndrome;pots			PMC9039351	1	Autonomic dysfunction after moderate-to-severe traumatic brain injury: symptom spectrum and clinical testing outcomes.
 35531943	core	2023	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	lau2026:references;lau2026:related			1	"""You're always fighting"": the lived experience of people with postural orthostatic tachycardia syndrome (POTS)."
 35533140	fulltext	2022		postural orthostatic tachycardia syndrome;pots			PMC9633345	1	Association of Concussion History and Prolonged Recovery in Youth.
@@ -2243,6 +2279,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 35672052	core	2022	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC9174810	1	Intermittent left bundle branch block with septal flash and postural orthostatic tachycardia syndrome in a young woman with long COVID-19.
 35673757	core	2022	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome				1	[The 496th case:recurrent syncope for 8 years].
 35674083	fulltext	2022		postural orthostatic tachycardia syndrome;pots			PMC9179102	1	The pathogenesis of neurologic symptoms of the postacute sequelae of severe acute respiratory syndrome coronavirus 2 infection.
+35678018	expansion	2022			low2009:cited_by	include		0	Successful Treatment of Refractory Orthostatic Intolerance (OI) With Droxidopa.
 35679657	core	2022	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	Autonomic function testing in long-COVID syndrome patients with orthostatic intolerance.
 35680184	core	2022	tiab_acronym_guarded	post-covid pots;postural orthostatic tachycardia syndrome;pots			PMC10264095	0	Autonomic Dysfunction as a Consequence of COVID-19 Infection: A New Twist on an Old Problem.
 35688353	fulltext	2022		postural tachycardia syndrome;pots			PMC9691520	1	Progress in Gastroparesis - A Narrative Review of the Work of the Gastroparesis Clinical Research Consortium.
@@ -2364,6 +2401,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 36061080	fulltext	2021		postural orthostatic tachycardia syndrome			PMC9435577	1	Increase in clivo-axial angle is associated with clinical improvement in children undergoing occipitocervical fusion for complex Chiari malformation: patient series.
 36063349	fulltext	2022		postural orthostatic tachycardia syndrome			PMC9442559	1	Autonomic Testing Optimizes Therapy for Heart Failure and Related Cardiovascular Disorders.
 36071155	fulltext	2022		postural orthostatic tachycardia			PMC9449925	1	Long Covid: where we stand and challenges ahead.
+36074194	expansion	2022			low2009:cited_by	include		1	Utricular dysfunction in patients with orthostatic hypotension.
 36074973	core	2022	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;postural tachycardia syndrome;pots	lau2026:references;low2009:cited_by		PMC9523592	1	Sinus Tachycardia: a Multidisciplinary Expert Focused Review.
 36075372	core	2022	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome			PMC9444584	1	Clinical cardiovascular emergencies and the cellular basis of COVID-19 vaccination: from dream to reality?
 36085427	fulltext	2022		postural tachycardia syndrome			PMC9618506	1	Nonregional small fibre neuropathy in cases of autoimmune autonomic neuropathy.
@@ -2886,6 +2924,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 37721168	fulltext	2023		postural orthostatic tachycardia syndrome;postural tachycardia syndrome			PMC10727239	1	Vagus Nerve Stimulation and Inflammation in Cardiovascular Disease: A State-of-the-Art Review.
 37726165	core	2023	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	Tilt testing.
 37733015	fulltext	2023		postural tachycardia syndromes			PMC10515670	1	Association between COVID-19 and sexual health: an umbrella review.
+37733160	expansion	2023			low2009:cited_by	include		1	Assessment of comorbid symptoms in pediatric autonomic dysfunction.
 37739977	fulltext	2023		postural orthostatic tachycardia			PMC10516975	1	Autonomic dysregulation in long-term patients suffering from Post-COVID-19 Syndrome assessed by heart rate variability.
 37740144	fulltext	2024		postural orthostatic tachycardia syndrome;pots			PMC10784347	1	Long COVID quality of life and healthcare experiences in the UK: a mixed method online survey.
 37744201	fulltext	2023		postural orthostatic tachycardia			PMC10517361	1	Implementing a Multidisciplinary Post-COVID Clinic in a Small Community Environment.
@@ -3108,6 +3147,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 38958137	core	2024	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	angeli2024:related;lau2026:references;lau2026:related		PMC11292765	1	Long-Term POTS Outcomes Survey: Diagnosis, Therapy, and Clinical Outcomes.
 38962840	core	2024	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	low2009:related		PMC11414806	1	Deep abdominal breathing reduces heart rate and symptoms during orthostatic challenge in patients with postural orthostatic tachycardia syndrome.
 38966085	core	2024	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC11222644	1	Factors associated with initiation of pharmacological therapy and treatment changes in postural orthostatic tachycardia syndrome.
+38980457	expansion	2024			low2009:cited_by	include		1	Cerebral blood flow and end-tidal CO2 predict lightheadedness during head-up tilt in patients with orthostatic intolerance.
 38985772	core	2024	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC11236186	1	One or many labels? a longitudinal qualitative study of patients' journey to diagnosis at a specialist NHS Postural Tachycardia Syndrome (PoTS) clinic.
 38988771	fulltext	2024		postural orthostatic tachycardia syndrome			PMC11233752	0	Editorial: Understanding the role of the autonomic nervous system in health and disease.
 39027978	core	2024	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	Ivabradine Approved and Other Uses in Clinical Practice: A Systematic Review.
@@ -3130,6 +3170,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 39205953	core	2024	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC11348541	1	The Suggested Relationships Between Common GI Symptoms and Joint Hypermobility, POTS, and MCAS.
 39209013	core	2024	mesh_heading;tiab_acronym_guarded;tiab_seed_wordings	post-orthostatic tachycardia syndrome;pots				1	Ear abnormalities in chronic fatigue syndrome (CFS), fibromyalgia (FM), Coronavirus-19 infectious disease (COVID) and long-COVID syndrome (PCS), sick-building syndrome (SBS), post-orthostatic tachycardia syndrome (PoTS), and autoimmune/inflammatory syndrome induced by adjuvants (ASIA): A systematic review.
 39209688	core	2024	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	Pediatric Outcomes After Robotic Median Arcuate Ligament Release, Celiac Ganglionectomy, and Lymphadenectomy.
+39245082	expansion	2024			low2009:cited_by	include	PMC11540534	1	Effect of Positional Changes on Cerebral Perfusion in Parkinson's Disease Patients With Orthostatic Hypotension.
 39258893	core	2024	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots;pots-like symptoms	gibbons2013:cited_by			1	Correlates and Predictors of Symptom Severity Over Time in People Under Investigation for Postural Orthostatic Tachycardia Syndrome.
 39268060	core	2024	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	low2009:cited_by		PMC11390471	1	An overview of Ehlers Danlos syndrome and the link between postural orthostatic tachycardia syndrome and gastrointestinal symptoms with a focus on gastroparesis.
 39269253	core	2024	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	Comparison of paediatric patients evaluated for postural orthostatic tachycardia syndrome with and without tachycardia.
@@ -3153,6 +3194,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 39448789	core	2024	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia disorder;postural orthostatic tachycardia syndrome;pots			PMC11502671	1	The relationship between cardiovagal baroreflex and cerebral autoregulation in postural orthostatic tachycardia disorder using advanced cross-correlation function.
 39451030	core	2024	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	Dysautonomia and Postural Orthostatic Tachycardia Syndrome: A Critical Analysis of Dysautonomia: How to Diagnose and Treat.
 39463038	core	2025	mesh_heading;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome			PMC11622273	1	Visual symptoms in postural tachycardia syndrome: An investigation of position-dependent visual exploration.
+39505309	expansion	2024			low2009:cited_by	include	PMC11543387	1	Blood Pressure Variability and Ocular Vestibular-Evoked Myogenic Potentials Are Independently Associated With Orthostatic Hypotension.
 39511549	core	2024	tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome			PMC11542353	1	"""A bit of a cough, tired, not very resilient - is that already Long-COVID?"" perceptions and experiences of GPs with Long-COVID in year three of the pandemic. a qualitative interview study in Austria."
 39523946	core	2024	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	lau2026:references		PMC11578055	1	Blood Pressure Regulation in Post-COVID POTS: Beyond Sinus Tachycardia.
 39527936	core	2025	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	pots			PMC12048102	1	Prevalence of Autoantibodies in Patients with Hereditary Alpha-Tryptasemia.
@@ -3229,6 +3271,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 40162775	core	2025	tiab_entry_terms;tiab_seed_wordings	orthostatic tachycardia syndrome				0	Cardiac Rehabilitation in a Patient With Takotsubo Syndrome and Postural Orthostatic Tachycardia Syndrome.
 40177006	core	2025	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome			PMC11964486	1	Sexual dysfunction in women with hypermobile Ehlers-Danlos syndrome and hypermobility spectrum disorders: an online community-based study.
 40182946	core	2025	tiab_entry_terms;tiab_seed_wordings				PMC11962985	0	Refractory inappropriate sinus tachycardia post sinus node sparing hybrid thoracoscopic ablation originating from the arcuate ridge.
+40185401	expansion	2025			low2009:cited_by	include	PMC12223533	1	A contemporary review of the head-up tilt test: Utility and limitations.
 40185471	core	2025	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	orthostatic tachycardia syndrome;pots				1	Prevalence of mast cell activation disorders and hereditary alpha tryptasemia among patients with postural orthostatic tachycardia syndrome and Ehlers-Danlos syndrome: A systematic review.
 40196285	core	2025	tiab_acronym_guarded;tiab_seed_wordings				PMC11974971	1	Reinfection with SARS-CoV-2 in the Omicron Era is Associated with Increased Risk of Post-Acute Sequelae of SARS-CoV-2 Infection: A RECOVER-EHR Cohort Study.
 40199701	core	2025	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome				1	Advances in Cardiovascular Pharmacotherapy. II. Ivabradine, an Inhibitor of the Hyperpolarization-Activated Cyclic Nucleotide-Gated Channel.
@@ -3285,6 +3328,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 40546538	core	2025	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC12178837	1	A Survey-Based Study Examining Exercise in Postural Orthostatic Tachycardia Syndrome (POTS) Patients.
 40559080	core	2025	tiab_seed_wordings				PMC12194598	1	Improvement of Fatigue and Body Composition in Women with Long COVID After Non-Aerobic Therapeutic Exercise Program.
 40573879	core	2025	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC12197400	1	Cardiopulmonary Effects of COVID-19 Vaccination: A Comprehensive Narrative Review.
+40579375	expansion	2025			lau2026:references	include	PMC12287922	0	Clinical characteristics of psychogenic pseudosyncope in a population-based cohort.
 40584422	core	2025	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	low2009:cited_by		PMC12203868	1	Comparative analysis of autonomic nervous system function in patients with postural orthostatic tachycardia syndrome versus a head-up tilt testing-negative cohort.
 40585261	core	2025	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC12204353	1	Beyond the Headache: Autonomic Reflex Dysfunction and Sensory Hypersensitivity Contribute to Orthostatic Intolerance in Migraine.
 40588382	core	2025	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC12211820	1	Assessing symptom improvement in patients with postural orthostatic tachycardia syndrome (POTS) following a 16-week structured exercise programme: a protocol for a randomised cross-over trial in a clinical outpatient setting.
@@ -3332,6 +3376,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 40892700	fulltext	2025		postural orthostatic tachycardia syndrome;pots			PMC12404247	1	Long COVID and chronic fatigue syndrome/myalgic encephalitis share similar pathophysiologic mechanisms of exercise limitation.
 40901355	fulltext	2025		postural orthostatic tachycardia syndrome;pots			PMC12400797	1	Clinically Meaningful Improvements in Long COVID Symptoms Following Ketogenic Metabolic Therapy Combined with Lifestyle Interventions-A Clinical Case Report and Review of the Literature.
 40904246	core	2025	tiab_acronym_guarded					1	Median arcuate ligament syndrome: challenges, comorbidities, and controversies.
+40909328	expansion	2025			gibbons2013:cited_by	include	PMC12405206	1	Standing under pressure: hemodynamic effects of abdominal compression type and intensity in healthy adults.
 40911763	core	2025	tiab_entry_terms;tiab_seed_wordings	orthostatic tachycardia syndrome				0	Heart Rate Lowering With Ivabradine and Burden of Symptoms in Patients With Postural Orthostatic Tachycardia Syndrome.
 40918773	core	2025	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome			PMC12409755	1	Anesthetic Management of a Pregnant Patient With Ehlers-Danlos Syndrome Undergoing Elective Cesarean Delivery: A Case Report.
 40944028	core	2025	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings				PMC12428951	1	Autonomic Dysfunction in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Findings from the Multi-Site Clinical Assessment of ME/CFS (MCAM) Study in the USA.
@@ -3362,6 +3407,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 41069916	core	2025	tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC12504783	1	Therapeutic Plasma Exchange in Postural Tachycardia Syndrome (POTS).
 41081311	core	2026	tiab_seed_wordings					1	Prevalence of Dysautonomic Symptoms in CHARGE Syndrome: A Pilot Study of 25 Individuals With CHARGE Syndrome.
 41082082	core	2025	tiab_seed_wordings	postural orthostatic tachycardia				1	From infection to intervention: post-acute sequelae of SARS-CoV-2 infection and cardiovascular risk.
+41085193	expansion	2025			low2009:cited_by	include	PMC12684565	1	Blood Pressure Variability as a Diagnostic Marker for α-Synucleinopathy in Patients With Orthostasis.
 41089328	core	2025	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots	lau2026:references;lau2026:related;low2009:cited_by		PMC12515974	1	Immunotherapies for postural orthostatic tachycardia syndrome, other common autonomic disorders, and Long COVID: current state and future direction.
 41103515	core	2025	tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome	angeli2024:cited_by		PMC12520903	1	Differential diagnosis of orthostatic dizziness with persistent postural-perceptual dizziness and its underlying mechanisms.
 41110327	core	2025	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;postural tachycardia syndrome;pots				1	Supportive self-management in postural orthostatic tachycardia syndrome (POTS): A systematic review.
@@ -3426,6 +3472,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 41519610	seed	2026	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots				1	Postural Orthostatic Tachycardia Syndrome: A State-of-the-Art Review.
 41523445	core	2025	tiab_entry_terms;tiab_seed_wordings				PMC12781037	1	Heart Rate Variability and Intrinsic Autonomic Coupling in Ehlers-Danlos Syndrome.
 41526146	core	2026	tiab_entry_terms;tiab_seed_wordings					1	Autonomic nervous system autoimmunity and proposed immunotherapies.
+41526147	expansion	2026			gibbons2013:cited_by	include		1	Immunotherapy considerations for distal sensory-predominant and small-fiber peripheral neuropathies.
 41528744	core	2026	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural tachycardia syndrome;pots			PMC12801080	1	Prevalence of Central Sensitization in Postural Tachycardia Syndrome.
 41530768	fulltext	2026		postural orthostatic tachycardia syndrome			PMC12801876	1	Rethinking measurement of health outcomes in Long COVID: complexities, challenges and considerations.
 41533304	core	2026	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	hyperadrenergic postural tachycardia syndrome;postural tachycardia syndrome;pots			PMC12931957	1	Hyperadrenergic postural tachycardia syndrome associated with augmented neurovascular transduction.
@@ -3531,6 +3578,7 @@ pmid	tier	year	clauses	pubtator_wordings	expansion	screen	pmcid	has_abstract	tit
 41932118	core	2026	tiab_entry_terms;tiab_seed_wordings	orthostatic tachycardia syndrome			PMC13087761	0	Post-COVID Postural Orthostatic Tachycardia Syndrome and Inappropriate Sinus Tachycardia: Prevalence, Overlap, and Clinical Characteristics.
 41932754	core	2026	tiab_entry_terms;tiab_seed_wordings		lau2026:cited_by			1	Mast Cell Activation Syndrome and Mimickers.
 41932997	core	2026	mesh_heading;tiab_acronym_guarded;tiab_entry_terms;tiab_seed_wordings	postural orthostatic tachycardia syndrome;pots			PMC13194927	1	Proteomic signatures in cerebrospinal fluid and their clinical associations in patients with ME/CFS.
+41933948	expansion	2026			lau2026:cited_by	include		0	Physiotherapy management of long COVID in adults.
 41935665	core	2026	tiab_acronym_guarded					0	Reply.
 41942001	core	2026	tiab_entry_terms;tiab_seed_wordings					0	Beyond Heart Rate Thresholds: Reframing Functional Disability in Pediatric Orthostatic Intolerance.
 41945548	core	2025	tiab_entry_terms;tiab_seed_wordings	orthostatic tachycardia syndrome			PMC12802868	0	Tirzepatide and Autonomic Dysfunction: Insights From Postural Orthostatic Tachycardia Syndrome.

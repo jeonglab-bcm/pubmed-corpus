@@ -1,1 +1,151 @@
 {"decision": "include", "pmid": "39196162", "reason": "disease wording in title/abstract: 'pots'", "screener": "rule"}
+{"pmid": "363043", "decision": "exclude", "reason": "Cholinergic dysautonomia case report; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "463929", "decision": "exclude", "reason": "Mitral valve prolapse baroreflex study; no stated POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "1324425", "decision": "exclude", "reason": "Small fiber neuropathy sweat testing; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "1348300", "decision": "include", "reason": "Countermanoeuvres for orthostatic dizziness; recommended for patients with orthostatic intolerance.", "screener": "agent"}
+{"pmid": "1757382", "decision": "exclude", "reason": "Valsalva indices of adrenergic failure; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "2241448", "decision": "exclude", "reason": "Acute autonomic neuropathy review; no stated POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "2243132", "decision": "include", "reason": "Hyperadrenergic orthostatic disorder; leg venous pooling mechanism in chronic orthostatic patients.", "screener": "agent"}
+{"pmid": "2747292", "decision": "exclude", "reason": "Diabetic neuropathy sweat testing; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "2909911", "decision": "include", "reason": "Orthostatic tachycardia and intolerance after viral infection or weight loss.", "screener": "agent"}
+{"pmid": "3511818", "decision": "include", "reason": "Orthostatic intolerance with tilt tachycardia; hypovolemia treated by volume expansion.", "screener": "agent"}
+{"pmid": "4031928", "decision": "exclude", "reason": "Bladder function in acute autonomic neuropathy; no POTS or orthostatic link.", "screener": "agent"}
+{"pmid": "6128711", "decision": "exclude", "reason": "Cholinergic dysautonomia case report; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "6316835", "decision": "exclude", "reason": "QSART method and normative data; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "6880820", "decision": "exclude", "reason": "Generic anxiety/depression survey instrument (HADS).", "screener": "agent"}
+{"pmid": "7674527", "decision": "include", "reason": "Chronic fatigue syndrome patients with abnormal tilt responses; orthostatic therapy.", "screener": "agent"}
+{"pmid": "7936295", "decision": "exclude", "reason": "Idiopathic autonomic neuropathy series; no stated POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "8463991", "decision": "exclude", "reason": "Generic fatigue rating scale development.", "screener": "agent"}
+{"pmid": "8673750", "decision": "include", "reason": "Salt improves orthostatic tolerance in patients with posturally related syncope.", "screener": "agent"}
+{"pmid": "8790259", "decision": "include", "reason": "Countermaneuvers improve chronic orthostatic symptoms and standing time.", "screener": "agent"}
+{"pmid": "8869382", "decision": "exclude", "reason": "Cholinergic dysautonomia case study; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "8923116", "decision": "exclude", "reason": "Generic disability scale (survey instrument).", "screener": "agent"}
+{"pmid": "9040659", "decision": "exclude", "reason": "Quantitative sensory testing methods review; no POTS link.", "screener": "agent"}
+{"pmid": "9217617", "decision": "include", "reason": "Orthostatic intolerance and raised standing heart rate in chronic fatigue syndrome.", "screener": "agent"}
+{"pmid": "9430805", "decision": "include", "reason": "Compression reduces orthostatic intolerance symptoms in orthostatic hypotension patients.", "screener": "agent"}
+{"pmid": "9509246", "decision": "exclude", "reason": "Chronic fatigue syndrome review; no stated POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "9565717", "decision": "exclude", "reason": "Generic disability survey instrument (Sheehan Disability Scale).", "screener": "agent"}
+{"pmid": "9843880", "decision": "exclude", "reason": "Healthy volunteers only; no POTS or chronic orthostatic intolerance patients.", "screener": "agent"}
+{"pmid": "10073520", "decision": "include", "reason": "uncertain: no abstract; water pressor response may bear on orthostatic treatment.", "screener": "agent"}
+{"pmid": "10189122", "decision": "include", "reason": "Orthostatic intolerance including tachycardia subgroup in chronic fatigue syndrome.", "screener": "agent"}
+{"pmid": "10334811", "decision": "exclude", "reason": "Healthy volunteers' autonomic control; no POTS or orthostatic intolerance patients.", "screener": "agent"}
+{"pmid": "10638807", "decision": "include", "reason": "CFS autonomic tests including standing heart rate, framed by orthostatic intolerance.", "screener": "agent"}
+{"pmid": "10662747", "decision": "include", "reason": "Water pressor reflex proposed to relieve orthostatic hypotension symptoms.", "screener": "agent"}
+{"pmid": "11491192", "decision": "exclude", "reason": "Generic health status instrument (EQ-5D).", "screener": "agent"}
+{"pmid": "11668064", "decision": "exclude", "reason": "Healthy volunteers' tilt responses; no POTS or chronic orthostatic intolerance patients.", "screener": "agent"}
+{"pmid": "11823926", "decision": "include", "reason": "Syncope review covering orthostatic hypotension, tilt testing and orthostatic tolerance treatments.", "screener": "agent"}
+{"pmid": "12102461", "decision": "exclude", "reason": "Hereditary sensory autonomic neuropathies review; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "12451007", "decision": "exclude", "reason": "Healthy volunteers only; no POTS or chronic orthostatic intolerance patients.", "screener": "agent"}
+{"pmid": "12879946", "decision": "exclude", "reason": "QSART detects diabetic orthostatic hypotension; no POTS or intolerance link.", "screener": "agent"}
+{"pmid": "14527942", "decision": "exclude", "reason": "Healthy volunteers' sex differences; no POTS or chronic orthostatic intolerance patients.", "screener": "agent"}
+{"pmid": "15207880", "decision": "exclude", "reason": "Small fiber testing review; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "15593364", "decision": "exclude", "reason": "Fibromyalgia exercise trial; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "15687139", "decision": "exclude", "reason": "Healthy volunteers' autonomic blood pressure support; no orthostatic intolerance or POTS.", "screener": "agent"}
+{"pmid": "15761188", "decision": "exclude", "reason": "Healthy volunteers only; no POTS or chronic orthostatic intolerance patients.", "screener": "agent"}
+{"pmid": "15892882", "decision": "exclude", "reason": "Critique of CFS fatigue scales; no POTS or orthostatic link.", "screener": "agent"}
+{"pmid": "16171763", "decision": "include", "reason": "uncertain: no abstract; inappropriate sinus tachycardia overlaps POTS differential.", "screener": "agent"}
+{"pmid": "16301478", "decision": "exclude", "reason": "Valsalva index of adrenergic failure; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "16434668", "decision": "exclude", "reason": "Skin biopsy in small fiber neuropathy; no POTS or orthostatic link.", "screener": "agent"}
+{"pmid": "16832073", "decision": "include", "reason": "Delayed orthostatic hypotension as cause of orthostatic intolerance; tilt testing.", "screener": "agent"}
+{"pmid": "17353381", "decision": "exclude", "reason": "Baroreflex index in autonomic failure; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "17654557", "decision": "exclude", "reason": "Normative baroreflex data in healthy subjects; no POTS link.", "screener": "agent"}
+{"pmid": "18541883", "decision": "exclude", "reason": "Sudomotor test method in healthy subjects; no POTS link.", "screener": "agent"}
+{"pmid": "18622640", "decision": "exclude", "reason": "Pyridostigmine for constipation in autonomic neuropathy; no POTS or orthostatic link.", "screener": "agent"}
+{"pmid": "18929686", "decision": "exclude", "reason": "Generic research data capture software (REDCap).", "screener": "agent"}
+{"pmid": "19376980", "decision": "exclude", "reason": "Deep-breathing HRV test review; no POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "20437589", "decision": "exclude", "reason": "Treatment-induced diabetic neuropathy; no stated POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "20626541", "decision": "exclude", "reason": "Generic disability survey instrument validation.", "screener": "agent"}
+{"pmid": "20642627", "decision": "exclude", "reason": "Skin biopsy guideline for small fiber neuropathy; no POTS link.", "screener": "agent"}
+{"pmid": "20817229", "decision": "exclude", "reason": "Parkinson's orthostatic hypotension review; no stated POTS or orthostatic intolerance link.", "screener": "agent"}
+{"pmid": "21037047", "decision": "include", "reason": "uncertain: no abstract; generic nephrology case title, topic unknown.", "screener": "agent"}
+{"pmid": "21244555", "decision": "include", "reason": "Tilt testing in youth with posturally triggered transient loss of consciousness.", "screener": "agent"}
+{"pmid": "21411809", "decision": "exclude", "reason": "Skin nerve imaging technique; no POTS link.", "screener": "agent"}
+{"pmid": "21472496", "decision": "exclude", "reason": "Diabetic small fiber neuropathy testing; no POTS or orthostatic link.", "screener": "agent"}
+{"pmid": "21509598", "decision": "include", "reason": "Orthostatic hypotension review addressing postural symptoms, standing time and treatment.", "screener": "agent"}
+{"pmid": "21819232", "decision": "exclude", "reason": "Syncope and palpitations workup focused on arrhythmia; no POTS or orthostatic link.", "screener": "agent"}
+{"pmid": "22045363", "decision": "include", "reason": "Orthostatic symptom scale validated in chronic neurogenic orthostatic hypotension patients.", "screener": "agent"}
+{"pmid": "22188159", "decision": "exclude", "reason": "HPV vaccine policy review; no POTS or orthostatic intolerance mentioned.", "screener": "agent"}
+{"pmid": "23218087", "decision": "exclude", "reason": "Autonomic symptom questionnaire development; abstract gives no POTS or orthostatic link.", "screener": "agent"}
+{"pmid": "23649502", "decision": "exclude", "reason": "QSART in small fiber neuropathy diagnosis; no POTS link.", "screener": "agent"}
+{"pmid": "23893404", "decision": "exclude", "reason": "Normative nerve testing in healthy elderly; no POTS link.", "screener": "agent"}
+{"pmid": "24340521", "decision": "include", "reason": "Links orthostatic intolerance and chronic fatigue syndrome.", "screener": "agent"}
+{"pmid": "24597842", "decision": "exclude", "reason": "Valsalva baroreflex index in autonomic failure; no POTS or orthostatic link.", "screener": "agent"}
+{"pmid": "24972819", "decision": "exclude", "reason": "Autonomic versus somatic small fiber neuropathy testing; no POTS link.", "screener": "agent"}
+{"pmid": "25012479", "decision": "include", "reason": "Chronic dizziness patients with excessive tilt heart rate increase.", "screener": "agent"}
+{"pmid": "25043126", "decision": "exclude", "reason": "Nerve fiber counting method; no POTS link.", "screener": "agent"}
+{"pmid": "25392197", "decision": "exclude", "reason": "Treatment-induced diabetic neuropathy cohort; no stated POTS or orthostatic link.", "screener": "agent"}
+{"pmid": "25557122", "decision": "exclude", "reason": "AAG antibody study; no stated POTS or orthostatic intolerance link", "screener": "agent"}
+{"pmid": "26026995", "decision": "exclude", "reason": "Arrhythmia risk by sex and ethnicity; no POTS link", "screener": "agent"}
+{"pmid": "26231277", "decision": "exclude", "reason": "Episodic vestibular dizziness causes; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "26399563", "decision": "exclude", "reason": "Quantitative sensory testing in pain; no POTS link", "screener": "agent"}
+{"pmid": "26713718", "decision": "exclude", "reason": "Anxiety/hypermobility model; no stated POTS or orthostatic intolerance link", "screener": "agent"}
+{"pmid": "26806722", "decision": "include", "reason": "Orthostatic hypertension in 1033 orthostatic intolerance patients on tilt", "screener": "agent"}
+{"pmid": "26848004", "decision": "exclude", "reason": "Women's cardiovascular care clinics; no POTS link", "screener": "agent"}
+{"pmid": "28070451", "decision": "exclude", "reason": "ME/CFS mortality; no stated POTS or orthostatic link", "screener": "agent"}
+{"pmid": "28280231", "decision": "include", "reason": "uncertain: no abstract; syncope guideline may cover POTS/orthostatic intolerance", "screener": "agent"}
+{"pmid": "28280232", "decision": "include", "reason": "uncertain: no abstract; syncope guideline may cover POTS/orthostatic intolerance", "screener": "agent"}
+{"pmid": "28286221", "decision": "include", "reason": "uncertain: no abstract; syncope guideline may cover POTS/orthostatic intolerance", "screener": "agent"}
+{"pmid": "28286222", "decision": "include", "reason": "uncertain: no abstract; syncope guideline may cover POTS/orthostatic intolerance", "screener": "agent"}
+{"pmid": "28286246", "decision": "include", "reason": "uncertain: no abstract; syncope guideline may cover POTS/orthostatic intolerance", "screener": "agent"}
+{"pmid": "28286247", "decision": "include", "reason": "uncertain: no abstract; syncope guideline may cover POTS/orthostatic intolerance", "screener": "agent"}
+{"pmid": "28884982", "decision": "exclude", "reason": "Diabetic neuropathy fiber testing; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "29064042", "decision": "exclude", "reason": "Treatment-induced diabetic neuropathy; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "29197614", "decision": "exclude", "reason": "Concussion autonomic dysfunction; no stated POTS or orthostatic link", "screener": "agent"}
+{"pmid": "29503439", "decision": "exclude", "reason": "Vaccine autoimmunity review; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "29562304", "decision": "include", "reason": "uncertain: no abstract; ESC syncope guideline may cover POTS/orthostatic intolerance", "screener": "agent"}
+{"pmid": "29622324", "decision": "exclude", "reason": "Pediatric syncope high-risk causes; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "30341445", "decision": "exclude", "reason": "ESC syncope guideline update review; no POTS or orthostatic intolerance link", "screener": "agent"}
+{"pmid": "30592899", "decision": "exclude", "reason": "Healthy-volunteer hypovolemia tolerance; no stated POTS or orthostatic link", "screener": "agent"}
+{"pmid": "30724451", "decision": "exclude", "reason": "Orthostatic hypertension review; no stated POTS or intolerance link", "screener": "agent"}
+{"pmid": "30726003", "decision": "exclude", "reason": "Opioid prescribing; unrelated to POTS", "screener": "agent"}
+{"pmid": "31093868", "decision": "exclude", "reason": "Autoimmune autonomic neuropathy review; no stated POTS or orthostatic intolerance link", "screener": "agent"}
+{"pmid": "31504425", "decision": "include", "reason": "uncertain: no abstract; SVT guideline may address sinus tachycardia/POTS", "screener": "agent"}
+{"pmid": "32012301", "decision": "exclude", "reason": "Prediabetes and small fiber neuropathy; no POTS link", "screener": "agent"}
+{"pmid": "32183749", "decision": "exclude", "reason": "Hypermobility questionnaire validation; no POTS link", "screener": "agent"}
+{"pmid": "32270499", "decision": "exclude", "reason": "Skin biopsy innervation method in diabetes; no POTS link", "screener": "agent"}
+{"pmid": "32431663", "decision": "exclude", "reason": "Small fiber neuropathy test comparison; no POTS link", "screener": "agent"}
+{"pmid": "32568144", "decision": "include", "reason": "Orthostatic intolerance symptoms and upright hours in ME/CFS", "screener": "agent"}
+{"pmid": "33085409", "decision": "exclude", "reason": "Vesicoureteral reflux; unrelated to POTS", "screener": "agent"}
+{"pmid": "33419664", "decision": "include", "reason": "Autonomic testing consensus; indications include orthostatic intolerance", "screener": "agent"}
+{"pmid": "33442055", "decision": "exclude", "reason": "Food antigen IBS pain mechanism; no POTS link", "screener": "agent"}
+{"pmid": "33560050", "decision": "exclude", "reason": "Resting hemodynamics in reflex syncope; no POTS or orthostatic intolerance link", "screener": "agent"}
+{"pmid": "34335876", "decision": "exclude", "reason": "Small fiber neuropathy diagnosis; no POTS link", "screener": "agent"}
+{"pmid": "34374103", "decision": "exclude", "reason": "Non-length-dependent small fiber neuropathy review; no POTS link", "screener": "agent"}
+{"pmid": "34655930", "decision": "include", "reason": "Salt as treatment for orthostatic intolerance syndromes", "screener": "agent"}
+{"pmid": "35029940", "decision": "include", "reason": "Orthostatic hypotension review: orthostatic symptoms, stand and tilt testing", "screener": "agent"}
+{"pmid": "35526605", "decision": "include", "reason": "ME/CFS with stated orthostatic intolerance; pyridostigmine neurovascular trial", "screener": "agent"}
+{"pmid": "35678018", "decision": "include", "reason": "Title: droxidopa treatment of refractory orthostatic intolerance", "screener": "agent"}
+{"pmid": "36074194", "decision": "include", "reason": "Orthostatic intolerance patients; tilt testing and vestibular function", "screener": "agent"}
+{"pmid": "36346855", "decision": "exclude", "reason": "Engineering review of compression actuators; OI only a listed application", "screener": "agent"}
+{"pmid": "36516546", "decision": "exclude", "reason": "Healthy women, initial orthostatic hypotension; no POTS or chronic intolerance", "screener": "agent"}
+{"pmid": "37071080", "decision": "exclude", "reason": "Long COVID cardiac review; no stated POTS or orthostatic link", "screener": "agent"}
+{"pmid": "37733160", "decision": "include", "reason": "Comorbid symptom assessment in pediatric orthostatic intolerance", "screener": "agent"}
+{"pmid": "38112169", "decision": "exclude", "reason": "Small fiber neuropathy exam tool; no POTS link", "screener": "agent"}
+{"pmid": "38197939", "decision": "exclude", "reason": "Neuropathic pain in small fiber neuropathy; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "38287815", "decision": "exclude", "reason": "SARS-CoV-2 kidney receptors; unrelated to POTS", "screener": "agent"}
+{"pmid": "38375462", "decision": "exclude", "reason": "QSART in tinnitus; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "38462479", "decision": "exclude", "reason": "GI muscularis macrophages; no POTS link", "screener": "agent"}
+{"pmid": "38630952", "decision": "exclude", "reason": "Post-COVID small fiber neuropathy and IVIG; no stated POTS or orthostatic link", "screener": "agent"}
+{"pmid": "38873615", "decision": "exclude", "reason": "Autoantibody symptom-based disorders workshop; POTS not stated", "screener": "agent"}
+{"pmid": "38980457", "decision": "include", "reason": "Cerebral blood flow predicts lightheadedness in orthostatic intolerance patients", "screener": "agent"}
+{"pmid": "39004185", "decision": "exclude", "reason": "SARS-CoV-2 pathways review; unrelated to POTS", "screener": "agent"}
+{"pmid": "39201991", "decision": "exclude", "reason": "Long COVID versus FND perspective; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "39245082", "decision": "include", "reason": "Orthostatic cerebral perfusion in Parkinson's with orthostatic hypotension and dizziness", "screener": "agent"}
+{"pmid": "39424212", "decision": "exclude", "reason": "Long COVID endothelial dysfunction; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "39505309", "decision": "include", "reason": "Orthostatic intolerance patients; tilt testing and BP variability", "screener": "agent"}
+{"pmid": "39636352", "decision": "exclude", "reason": "Bedside autonomic tests for neurodegeneration; no POTS link", "screener": "agent"}
+{"pmid": "40149526", "decision": "exclude", "reason": "Orexin in long COVID; no stated POTS or orthostatic link", "screener": "agent"}
+{"pmid": "40185401", "decision": "include", "reason": "Tilt test review for orthostatic hypotension and vasovagal syncope", "screener": "agent"}
+{"pmid": "40232527", "decision": "exclude", "reason": "GI neuroimmune axis review; no POTS link", "screener": "agent"}
+{"pmid": "40254579", "decision": "exclude", "reason": "Long COVID Delphi consensus; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "40579375", "decision": "include", "reason": "uncertain: no abstract; psychogenic pseudosyncope may relate to orthostatic intolerance", "screener": "agent"}
+{"pmid": "40909328", "decision": "include", "reason": "Abdominal compression for orthostatic intolerance; standing heart-rate effects", "screener": "agent"}
+{"pmid": "41085193", "decision": "include", "reason": "Orthostatic dizziness patients; tilt testing and BP variability", "screener": "agent"}
+{"pmid": "41162000", "decision": "exclude", "reason": "Autonomic neuropathies review; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "41475426", "decision": "exclude", "reason": "Autonomic dysfunction and FND review; POTS not stated", "screener": "agent"}
+{"pmid": "41526147", "decision": "include", "reason": "Links small-fiber neuropathy to postural orthostatic tachycardia; immunotherapy", "screener": "agent"}
+{"pmid": "41933948", "decision": "include", "reason": "uncertain: no abstract; long COVID physiotherapy may address orthostatic intolerance", "screener": "agent"}
+{"pmid": "42601095", "decision": "exclude", "reason": "ME/CFS hypoxia trial protocol; no POTS or orthostatic link", "screener": "agent"}
+{"pmid": "42687741", "decision": "exclude", "reason": "No abstract; title is general GI nutrition guide, no POTS link", "screener": "agent"}
+{"pmid": "42723252", "decision": "exclude", "reason": "CSF leak history-taking; orthostatic headache only, no POTS link", "screener": "agent"}
+{"pmid": "42724636", "decision": "exclude", "reason": "Transient postoperative orthostatic intolerance; not chronic, no POTS link", "screener": "agent"}

@@ -160,13 +160,19 @@ def build(project: Project) -> str:
         L += ["", f"Reference size {len(ref)}. Missed: {len(missed)} ({no_abs} without an abstract, {gone} no longer in PubMed, "
                   f"{sum(1 for p in missed if p in excl)} reached but excluded)."]
         proposed = [c["id"] for c in clauses if c["status"] == "proposed"]
+        recoverable: set[str] = set()
         for cid in proposed:
-            n = len(set(hits.get(cid, [])) & set(missed))
-            L += [f"Proposed clause `{cid}` would recover {n} of them."]
-        if missed:
-            L += ["", "Missed reference papers (first by PMID):", ""]
+            got = set(hits.get(cid, [])) & set(missed)
+            recoverable |= got
+            L += [f"Proposed clause `{cid}` would recover {len(got)} of them."]
+        if proposed:
+            found = len(ref & set(in_corpus))
+            L += [f"With every proposed clause approved, recall would be {_pct(found + len(recoverable), len(ref))}."]
+        residual = [p for p in missed if p not in recoverable]
+        if residual:
+            L += ["", f"Missed reference papers that no proposed clause recovers: {len(residual)} (first by PMID):", ""]
             L += _table(["PMID", "Year", "Title"], [[p, meta.get(p, {}).get("year", ""), meta.get(p, {}).get("title", "")[:100]]
-                                                   for p in missed[:SAMPLE]])
+                                                   for p in residual[:SAMPLE]])
         extra = Counter(r["tier"] for p, r in in_corpus.items() if p not in ref)
         L += ["", "Corpus papers not in the reference, by tier: "
               + ", ".join(f"{t} {extra.get(t, 0)}" for t in corpus_mod.TIERS) + "."]
