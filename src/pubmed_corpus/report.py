@@ -21,6 +21,12 @@ def _pct(a: int, b: int) -> str:
     return f"{100 * a / b:.1f}%" if b else "n/a"
 
 
+def _icite_status(seed: dict) -> str:
+    if seed["icite_found"] != "1":
+        return "**no**"
+    return "yes" if int(seed["references"] or 0) + int(seed["cited_by"] or 0) else "yes, **no links yet**"
+
+
 def _table(header: list[str], rows: list[list]) -> list[str]:
     out = ["| " + " | ".join(header) + " |", "|" + "|".join("---" for _ in header) + "|"]
     out += ["| " + " | ".join(str(c).replace("|", "\\|") for c in r) + " |" for r in rows]
@@ -117,8 +123,8 @@ def build(project: Project) -> str:
     if seeds_path.exists():
         L += ["", "## Seed expansion", ""]
         L += _table(["Seed", "PMID", "In iCite", "References", "Cited by", "Related"],
-                    [[s["key"], s["seed"], "yes" if s["icite_found"] == "1" else "**no**", s["references"], s["cited_by"],
-                      s["related"]] for s in read_tsv(seeds_path)])
+                    [[s["key"], s["seed"], _icite_status(s), s["references"], s["cited_by"], s["related"]]
+                     for s in read_tsv(seeds_path)])
         cands = corpus_mod.candidates(project)
         reached = {e["pmid"] for e in read_tsv(out / "expansion.tsv")}
         tiers = Counter(cands[p]["tier"] for p in reached if p in cands)

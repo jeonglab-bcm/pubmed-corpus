@@ -1,0 +1,14 @@
+{
+  "compressed_bytes": 2180457155,
+  "concepts": [
+    "MESH:D054972"
+  ],
+  "content_length": 2180457155,
+  "etag": "",
+  "last_modified": "Tue, 06 Oct 2026 15:44:58 GMT",
+  "lines": 168857629,
+  "papers": 30932,
+  "resumes": 0,
+  "rows": 30932,
+  "url": "https://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator3/disease2pubtator3.gz"
+}

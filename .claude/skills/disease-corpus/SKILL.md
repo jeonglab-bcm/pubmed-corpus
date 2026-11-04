@@ -75,9 +75,9 @@ Run the steps in order. Each prints a JSON summary; read it before going on.
    frequent wording is undecided.
 
 6. **Expand from the seeds.** `pubmed-corpus expand projects/<slug>`
-   Tell the user about any seed with `icite_found` 0 in
-   `out/expansion_seeds.tsv`: iCite lags recent papers, so that seed
-   contributes no references or citing papers.
+   Tell the user about any seed listed under `seeds_missing_from_icite` or
+   `seeds_without_citation_links`: iCite lags recent papers, so that seed
+   contributes only similar articles, no references or citing papers.
 
 7. **Fetch records.** `pubmed-corpus metadata projects/<slug>`
 

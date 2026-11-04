@@ -140,6 +140,7 @@ def test_full_skill_run(setup, capsys):
     assert "| + fulltext | 3 | 60.0% |" in report
     assert "Proposed clause `mesh_previous_indexing_1982_2008` would recover 1 of them." in report
     assert "| postural instability | 2 | 2 |" in report
+    assert "| seedB | 200 | **no** | 0 | 0 | 1 |" in report
     assert run("report", p, "--check") == 0
 
     # 8. a changed decision is caught by --check

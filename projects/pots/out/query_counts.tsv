@@ -1,0 +1,7 @@
+clause	status	hits	query
+mesh_heading	approved	936	"""Postural Orthostatic Tachycardia Syndrome""[MeSH Terms]"
+tiab_entry_terms	approved	1851	"""postural orthostatic tachycardia syndrome""[tiab] OR ""postural tachycardia syndrome""[tiab]"
+tiab_seed_wordings	approved	2066	"""orthostatic tachycardia""[tiab] OR ""postural tachycardia""[tiab]"
+tiab_acronym_guarded	approved	1272	"(POTS[tiab]) AND (hypovolemia[tiab] OR ""orthostatic hypotension""[tiab] OR ""orthostatic intolerance""[tiab] OR tachycardia[tiab])"
+mesh_previous_indexing_1982_2008	proposed	191	"(""Posture""[MeSH Terms:noexp] AND ""Tachycardia""[MeSH Terms:noexp]) AND (""1982""[dp] : ""2008""[dp])"
+tiab_historical_names	proposed	556	"""neurocirculatory asthenia""[tiab] OR ""soldier's heart""[tiab] OR ""irritable heart""[tiab] OR ""Da Costa syndrome""[tiab]"
