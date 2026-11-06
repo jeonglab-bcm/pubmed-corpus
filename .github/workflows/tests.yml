@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   simple:
-    name: Simple test
+    name: Simple tests
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,8 +21,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -e ".[test]"
-      - name: Input files in, corpus tiers out (tests/test_simple.py)
-        run: pytest tests/test_simple.py -v
+      - name: Seven made-up papers (test_simple.py) and one real paper, replayed offline (test_one_paper.py)
+        run: pytest tests/test_simple.py tests/test_one_paper.py -v
 
   test:
     name: All offline tests (Python ${{ matrix.python-version }})

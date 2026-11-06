@@ -80,7 +80,7 @@ pytest                                   # offline: unit tests, the whole pipeli
 PUBMED_CORPUS_NETWORK=1 pytest -m network   # live smoke tests against NCBI, iCite and PubTator
 ```
 
-CI (`.github/workflows/tests.yml`) runs three jobs: **Simple test** (`tests/test_simple.py`) first, then
+CI (`.github/workflows/tests.yml`) runs three jobs: **Simple tests** (`tests/test_simple.py`, seven made-up papers; `tests/test_one_paper.py`, one real paper with its recorded API responses) first, then
 **All offline tests** on Python 3.10 and 3.12 on every pull request and push to `main`, and **Live API smoke
 tests** every Monday and whenever the workflow is run by hand from the Actions tab.
 
