@@ -4,13 +4,29 @@ on:
   push:
     branches: [main]
   pull_request:
-  workflow_dispatch:
+  workflow_dispatch:          # run by hand from the Actions tab (also runs the live tests)
+  schedule:
+    - cron: "17 9 * * 1"      # Mondays 09:17 UTC: live tests catch API changes at NCBI, iCite, PubTator
 
 permissions:
   contents: read
 
 jobs:
+  simple:
+    name: Simple test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[test]"
+      - name: Input files in, corpus tiers out (tests/test_simple.py)
+        run: pytest tests/test_simple.py -v
+
   test:
+    name: All offline tests (Python ${{ matrix.python-version }})
+    needs: simple
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -21,5 +37,20 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
       - run: pip install -e ".[test]"
-      - name: Offline tests (includes replaying every committed project)
+      - name: Unit, pipeline and skill tests, and replay of every committed project
         run: pytest
+
+  live:
+    name: Live API smoke tests
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[test]"
+      - name: NCBI E-utilities, iCite and PubTator respond as the tool expects
+        env:
+          PUBMED_CORPUS_NETWORK: "1"
+        run: pytest -m network -v

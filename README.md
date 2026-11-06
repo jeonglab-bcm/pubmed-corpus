@@ -80,6 +80,10 @@ pytest                                   # offline: unit tests, the whole pipeli
 PUBMED_CORPUS_NETWORK=1 pytest -m network   # live smoke tests against NCBI, iCite and PubTator
 ```
 
+CI (`.github/workflows/tests.yml`) runs three jobs: **Simple test** (`tests/test_simple.py`) first, then
+**All offline tests** on Python 3.10 and 3.12 on every pull request and push to `main`, and **Live API smoke
+tests** every Monday and whenever the workflow is run by hand from the Actions tab.
+
 Then ask Claude Code to build a corpus ("build a corpus for <disease> from
 these seeds") and it follows the skill, or run the steps yourself:
 
